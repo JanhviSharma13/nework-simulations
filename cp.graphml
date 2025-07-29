@@ -1,0 +1,3224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d16" for="edge" attr.name="junction" attr.type="string"/>
+<key id="d15" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d14" for="edge" attr.name="name" attr.type="string"/>
+<key id="d13" for="edge" attr.name="geometry" attr.type="string"/>
+<key id="d12" for="edge" attr.name="length" attr.type="string"/>
+<key id="d11" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d10" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d8" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d7" for="node" attr.name="highway" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="x" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="string"/>
+<key id="d3" for="graph" attr.name="simplified" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2025-07-11 18:46:14</data>
+<data key="d1">OSMnx 2.0.5</data>
+<data key="d2">epsg:4326</data>
+<data key="d3">True</data>
+<node id="249782331">
+  <data key="d4">28.631635</data>
+  <data key="d5">77.2217092</data>
+  <data key="d6">4</data>
+</node>
+<node id="249782337">
+  <data key="d4">28.6306928</data>
+  <data key="d5">77.2195322</data>
+  <data key="d6">3</data>
+</node>
+<node id="249782343">
+  <data key="d4">28.6318278</data>
+  <data key="d5">77.2175751</data>
+  <data key="d6">3</data>
+</node>
+<node id="249782349">
+  <data key="d4">28.63394</data>
+  <data key="d5">77.2176776</data>
+  <data key="d6">4</data>
+</node>
+<node id="249783257">
+  <data key="d4">28.6341977</data>
+  <data key="d5">77.2225404</data>
+  <data key="d6">3</data>
+</node>
+<node id="249783291">
+  <data key="d4">28.6300832</data>
+  <data key="d5">77.2209174</data>
+  <data key="d6">3</data>
+</node>
+<node id="249783293">
+  <data key="d4">28.6298938</data>
+  <data key="d5">77.2194853</data>
+  <data key="d7">traffic_signals</data>
+  <data key="d6">4</data>
+</node>
+<node id="249783302">
+  <data key="d4">28.6314291</data>
+  <data key="d5">77.2167421</data>
+  <data key="d7">traffic_signals</data>
+  <data key="d6">4</data>
+</node>
+<node id="249783308">
+  <data key="d4">28.6343031</data>
+  <data key="d5">77.2170406</data>
+  <data key="d6">4</data>
+</node>
+<node id="249783313">
+  <data key="d4">28.6355861</data>
+  <data key="d5">77.2188663</data>
+  <data key="d6">3</data>
+</node>
+<node id="249783316">
+  <data key="d4">28.6357191</data>
+  <data key="d5">77.2198833</data>
+  <data key="d7">traffic_signals</data>
+  <data key="d6">3</data>
+</node>
+<node id="267198388">
+  <data key="d4">28.6302174</data>
+  <data key="d5">77.2181923</data>
+  <data key="d6">3</data>
+</node>
+<node id="267198390">
+  <data key="d4">28.6337812</data>
+  <data key="d5">77.2218332</data>
+  <data key="d6">4</data>
+</node>
+<node id="267198392">
+  <data key="d4">28.6349075</data>
+  <data key="d5">77.2198366</data>
+  <data key="d6">4</data>
+</node>
+<node id="267198394">
+  <data key="d4">28.6339283</data>
+  <data key="d5">77.2197696</data>
+  <data key="d6">3</data>
+</node>
+<node id="267247451">
+  <data key="d4">28.6328887</data>
+  <data key="d5">77.2254922</data>
+  <data key="d6">3</data>
+</node>
+<node id="267247452">
+  <data key="d4">28.6326094</data>
+  <data key="d5">77.2253915</data>
+  <data key="d6">3</data>
+</node>
+<node id="267247454">
+  <data key="d4">28.6316249</data>
+  <data key="d5">77.2247024</data>
+  <data key="d6">3</data>
+</node>
+<node id="267247456">
+  <data key="d4">28.6314336</data>
+  <data key="d5">77.2240419</data>
+  <data key="d6">3</data>
+</node>
+<node id="267247460">
+  <data key="d4">28.6318574</data>
+  <data key="d5">77.2228317</data>
+  <data key="d6">3</data>
+</node>
+<node id="267247464">
+  <data key="d4">28.6335226</data>
+  <data key="d5">77.2233233</data>
+  <data key="d6">3</data>
+</node>
+<node id="267247468">
+  <data key="d4">28.6332724</data>
+  <data key="d5">77.2249216</data>
+  <data key="d6">3</data>
+</node>
+<node id="267250978">
+  <data key="d4">28.6264956</data>
+  <data key="d5">77.223376</data>
+  <data key="d6">4</data>
+</node>
+<node id="267250981">
+  <data key="d4">28.6264435</data>
+  <data key="d5">77.2192551</data>
+  <data key="d6">4</data>
+</node>
+<node id="267250993">
+  <data key="d4">28.6268396</data>
+  <data key="d5">77.2156923</data>
+  <data key="d6">3</data>
+</node>
+<node id="267250994">
+  <data key="d4">28.627</data>
+  <data key="d5">77.2154323</data>
+  <data key="d7">traffic_signals</data>
+  <data key="d6">4</data>
+</node>
+<node id="267250995">
+  <data key="d4">28.6271859</data>
+  <data key="d5">77.215061</data>
+  <data key="d6">3</data>
+</node>
+<node id="267251576">
+  <data key="d4">28.6263259</data>
+  <data key="d5">77.2216316</data>
+  <data key="d6">3</data>
+</node>
+<node id="345265121">
+  <data key="d4">28.6344291</data>
+  <data key="d5">77.2171312</data>
+  <data key="d6">3</data>
+</node>
+<node id="395135093">
+  <data key="d4">28.6321715</data>
+  <data key="d5">77.2132927</data>
+  <data key="d6">3</data>
+</node>
+<node id="395135103">
+  <data key="d4">28.6312729</data>
+  <data key="d5">77.2161249</data>
+  <data key="d6">3</data>
+</node>
+<node id="432874005">
+  <data key="d4">28.6352571</data>
+  <data key="d5">77.2180055</data>
+  <data key="d7">crossing</data>
+  <data key="d6">3</data>
+</node>
+<node id="912971480">
+  <data key="d4">28.6355015</data>
+  <data key="d5">77.2181403</data>
+  <data key="d6">3</data>
+</node>
+<node id="939091064">
+  <data key="d4">28.6311245</data>
+  <data key="d5">77.222658</data>
+  <data key="d6">3</data>
+</node>
+<node id="939091095">
+  <data key="d4">28.6337427</data>
+  <data key="d5">77.2203928</data>
+  <data key="d6">3</data>
+</node>
+<node id="939091123">
+  <data key="d4">28.631405</data>
+  <data key="d5">77.2225605</data>
+  <data key="d7">crossing</data>
+  <data key="d6">3</data>
+</node>
+<node id="1191294738">
+  <data key="d4">28.6284041</data>
+  <data key="d5">77.2174125</data>
+  <data key="d6">1</data>
+</node>
+<node id="1191294743">
+  <data key="d4">28.6290735</data>
+  <data key="d5">77.2177243</data>
+  <data key="d6">3</data>
+</node>
+<node id="1191294765">
+  <data key="d4">28.6316781</data>
+  <data key="d5">77.2195821</data>
+  <data key="d6">3</data>
+</node>
+<node id="1191294803">
+  <data key="d4">28.6318698</data>
+  <data key="d5">77.2189724</data>
+  <data key="d6">3</data>
+</node>
+<node id="1191294827">
+  <data key="d4">28.6284221</data>
+  <data key="d5">77.2178041</data>
+  <data key="d6">3</data>
+</node>
+<node id="1191294833">
+  <data key="d4">28.6293363</data>
+  <data key="d5">77.2172711</data>
+  <data key="d6">3</data>
+</node>
+<node id="1309626444">
+  <data key="d4">28.626468</data>
+  <data key="d5">77.2232972</data>
+  <data key="d6">4</data>
+</node>
+<node id="1309626482">
+  <data key="d4">28.630292</data>
+  <data key="d5">77.221405</data>
+  <data key="d6">3</data>
+</node>
+<node id="1762944960">
+  <data key="d4">28.6298231</data>
+  <data key="d5">77.2226204</data>
+  <data key="d6">3</data>
+</node>
+<node id="1762944963">
+  <data key="d4">28.6306849</data>
+  <data key="d5">77.2232549</data>
+  <data key="d6">3</data>
+</node>
+<node id="1762945073">
+  <data key="d4">28.6293982</data>
+  <data key="d5">77.2217071</data>
+  <data key="d6">3</data>
+</node>
+<node id="1762977534">
+  <data key="d4">28.6316729</data>
+  <data key="d5">77.2166601</data>
+  <data key="d6">4</data>
+</node>
+<node id="1869716862">
+  <data key="d4">28.6312463</data>
+  <data key="d5">77.222404</data>
+  <data key="d7">traffic_signals</data>
+  <data key="d6">4</data>
+</node>
+<node id="1869716889">
+  <data key="d4">28.6321678</data>
+  <data key="d5">77.2207567</data>
+  <data key="d6">3</data>
+</node>
+<node id="1869716891">
+  <data key="d4">28.6322574</data>
+  <data key="d5">77.2185744</data>
+  <data key="d6">3</data>
+</node>
+<node id="1869716895">
+  <data key="d4">28.6328234</data>
+  <data key="d5">77.2164164</data>
+  <data key="d6">3</data>
+</node>
+<node id="1869716906">
+  <data key="d4">28.6333557</data>
+  <data key="d5">77.2208092</data>
+  <data key="d6">3</data>
+</node>
+<node id="1869716913">
+  <data key="d4">28.6334054</data>
+  <data key="d5">77.2186161</data>
+  <data key="d6">3</data>
+</node>
+<node id="1869716916">
+  <data key="d4">28.6334419</data>
+  <data key="d5">77.2228984</data>
+  <data key="d6">3</data>
+</node>
+<node id="1869716945">
+  <data key="d4">28.6345795</data>
+  <data key="d5">77.2210037</data>
+  <data key="d6">4</data>
+</node>
+<node id="2327524055">
+  <data key="d4">28.6289846</data>
+  <data key="d5">77.2194243</data>
+  <data key="d6">3</data>
+</node>
+<node id="2431986249">
+  <data key="d4">28.6262047</data>
+  <data key="d5">77.2175777</data>
+  <data key="d6">3</data>
+</node>
+<node id="2431986255">
+  <data key="d4">28.627177</data>
+  <data key="d5">77.2175566</data>
+  <data key="d6">3</data>
+</node>
+<node id="2431986256">
+  <data key="d4">28.6271445</data>
+  <data key="d5">77.2193008</data>
+  <data key="d6">3</data>
+</node>
+<node id="2592537501">
+  <data key="d4">28.6293291</data>
+  <data key="d5">77.2216652</data>
+  <data key="d6">3</data>
+</node>
+<node id="3504623687">
+  <data key="d4">28.6274252</data>
+  <data key="d5">77.2228478</data>
+  <data key="d6">3</data>
+</node>
+<node id="3504623688">
+  <data key="d4">28.6278294</data>
+  <data key="d5">77.2238029</data>
+  <data key="d6">3</data>
+</node>
+<node id="3504623690">
+  <data key="d4">28.6269502</data>
+  <data key="d5">77.2243682</data>
+  <data key="d6">3</data>
+</node>
+<node id="3744502776">
+  <data key="d4">28.6310064</data>
+  <data key="d5">77.222269</data>
+  <data key="d6">3</data>
+</node>
+<node id="3947529835">
+  <data key="d4">28.6303392</data>
+  <data key="d5">77.2179008</data>
+  <data key="d6">3</data>
+</node>
+<node id="4083435341">
+  <data key="d4">28.6270271</data>
+  <data key="d5">77.2153711</data>
+  <data key="d7">traffic_signals</data>
+  <data key="d6">4</data>
+</node>
+<node id="4083435383">
+  <data key="d4">28.6293694</data>
+  <data key="d5">77.2171227</data>
+  <data key="d6">3</data>
+</node>
+<node id="4083436490">
+  <data key="d4">28.6305317</data>
+  <data key="d5">77.2176681</data>
+  <data key="d6">3</data>
+</node>
+<node id="4231387109">
+  <data key="d4">28.6271546</data>
+  <data key="d5">77.2184035</data>
+  <data key="d6">3</data>
+</node>
+<node id="4231387111">
+  <data key="d4">28.6283893</data>
+  <data key="d5">77.2184091</data>
+  <data key="d6">3</data>
+</node>
+<node id="4398506629">
+  <data key="d4">28.6289902</data>
+  <data key="d5">77.2191234</data>
+  <data key="d6">3</data>
+</node>
+<node id="4398510560">
+  <data key="d4">28.6271708</data>
+  <data key="d5">77.2171881</data>
+  <data key="d6">1</data>
+</node>
+<node id="5432771962">
+  <data key="d4">28.6260101</data>
+  <data key="d5">77.2193238</data>
+  <data key="d6">3</data>
+</node>
+<node id="5434483896">
+  <data key="d4">28.6269171</data>
+  <data key="d5">77.2153759</data>
+  <data key="d7">traffic_signals</data>
+  <data key="d6">4</data>
+</node>
+<node id="5434484027">
+  <data key="d4">28.6262918</data>
+  <data key="d5">77.2196953</data>
+  <data key="d6">3</data>
+</node>
+<node id="5434484031">
+  <data key="d4">28.6262102</data>
+  <data key="d5">77.2223841</data>
+  <data key="d6">3</data>
+</node>
+<node id="5434484032">
+  <data key="d4">28.6261952</data>
+  <data key="d5">77.2216316</data>
+  <data key="d6">4</data>
+</node>
+<node id="5434484033">
+  <data key="d4">28.6262311</data>
+  <data key="d5">77.2207815</data>
+  <data key="d6">3</data>
+</node>
+<node id="5434484041">
+  <data key="d4">28.6263138</data>
+  <data key="d5">77.2192455</data>
+  <data key="d6">4</data>
+</node>
+<node id="5434484044">
+  <data key="d4">28.6262041</data>
+  <data key="d5">77.2222295</data>
+  <data key="d6">3</data>
+</node>
+<node id="5434484049">
+  <data key="d4">28.6263783</data>
+  <data key="d5">77.2233409</data>
+  <data key="d6">4</data>
+</node>
+<node id="5434484052">
+  <data key="d4">28.6264024</data>
+  <data key="d5">77.223418</data>
+  <data key="d6">4</data>
+</node>
+<node id="5681296953">
+  <data key="d4">28.6352759</data>
+  <data key="d5">77.221439</data>
+  <data key="d6">3</data>
+</node>
+<node id="5681296954">
+  <data key="d4">28.6352119</data>
+  <data key="d5">77.2215437</data>
+  <data key="d6">3</data>
+</node>
+<node id="5681321306">
+  <data key="d4">28.6363052</data>
+  <data key="d5">77.2223329</data>
+  <data key="d6">3</data>
+</node>
+<node id="5681321307">
+  <data key="d4">28.6363652</data>
+  <data key="d5">77.2222342</data>
+  <data key="d6">3</data>
+</node>
+<node id="5681450581">
+  <data key="d4">28.629882</data>
+  <data key="d5">77.2197655</data>
+  <data key="d6">3</data>
+</node>
+<node id="5681450599">
+  <data key="d4">28.6263065</data>
+  <data key="d5">77.2193396</data>
+  <data key="d6">4</data>
+</node>
+<node id="5681450601">
+  <data key="d4">28.6289849</data>
+  <data key="d5">77.2195265</data>
+  <data key="d6">3</data>
+</node>
+<node id="5681450605">
+  <data key="d4">28.6264348</data>
+  <data key="d5">77.2193638</data>
+  <data key="d6">4</data>
+</node>
+<node id="5682466818">
+  <data key="d4">28.6266857</data>
+  <data key="d5">77.2157201</data>
+  <data key="d6">3</data>
+</node>
+<node id="5682466820">
+  <data key="d4">28.6261796</data>
+  <data key="d5">77.2159548</data>
+  <data key="d6">3</data>
+</node>
+<node id="5682467523">
+  <data key="d4">28.6261306</data>
+  <data key="d5">77.2158836</data>
+  <data key="d6">4</data>
+</node>
+<node id="5792664578">
+  <data key="d4">28.6265854</data>
+  <data key="d5">77.219272</data>
+  <data key="d7">crossing</data>
+  <data key="d6">3</data>
+</node>
+<node id="5792664579">
+  <data key="d4">28.6264434</data>
+  <data key="d5">77.219034</data>
+  <data key="d6">3</data>
+</node>
+<node id="5792664580">
+  <data key="d4">28.6263256</data>
+  <data key="d5">77.21892</data>
+  <data key="d6">3</data>
+</node>
+<node id="5792664581">
+  <data key="d4">28.6260908</data>
+  <data key="d5">77.219231</data>
+  <data key="d6">3</data>
+</node>
+<node id="5799521439">
+  <data key="d4">28.6291694</data>
+  <data key="d5">77.2148357</data>
+  <data key="d6">3</data>
+</node>
+<node id="5799521445">
+  <data key="d4">28.6297429</data>
+  <data key="d5">77.2144904</data>
+  <data key="d6">3</data>
+</node>
+<node id="5799521452">
+  <data key="d4">28.6299309</data>
+  <data key="d5">77.2170525</data>
+  <data key="d6">3</data>
+</node>
+<node id="5799521553">
+  <data key="d4">28.6301883</data>
+  <data key="d5">77.2172466</data>
+  <data key="d6">1</data>
+</node>
+<node id="5799521554">
+  <data key="d4">28.6296771</data>
+  <data key="d5">77.2168101</data>
+  <data key="d6">3</data>
+</node>
+<node id="5799521565">
+  <data key="d4">28.6297515</data>
+  <data key="d5">77.2161416</data>
+  <data key="d6">3</data>
+</node>
+<node id="5799663725">
+  <data key="d4">28.6288256</data>
+  <data key="d5">77.2167229</data>
+  <data key="d6">3</data>
+</node>
+<node id="5799663728">
+  <data key="d4">28.6283808</data>
+  <data key="d5">77.216396</data>
+  <data key="d6">3</data>
+</node>
+<node id="5799663732">
+  <data key="d4">28.6283967</data>
+  <data key="d5">77.2165741</data>
+  <data key="d6">3</data>
+</node>
+<node id="5799663735">
+  <data key="d4">28.6288764</data>
+  <data key="d5">77.2169405</data>
+  <data key="d6">3</data>
+</node>
+<node id="5809063021">
+  <data key="d4">28.6264269</data>
+  <data key="d5">77.2196132</data>
+  <data key="d6">3</data>
+</node>
+<node id="5809063022">
+  <data key="d4">28.6266548</data>
+  <data key="d5">77.2193689</data>
+  <data key="d6">3</data>
+</node>
+<node id="6436408280">
+  <data key="d4">28.6271774</data>
+  <data key="d5">77.2155796</data>
+  <data key="d6">3</data>
+</node>
+<node id="6436532340">
+  <data key="d4">28.626326</data>
+  <data key="d5">77.2221119</data>
+  <data key="d6">3</data>
+</node>
+<node id="6436650499">
+  <data key="d4">28.6302742</data>
+  <data key="d5">77.2141649</data>
+  <data key="d6">3</data>
+</node>
+<node id="6436657802">
+  <data key="d4">28.6317918</data>
+  <data key="d5">77.2158251</data>
+  <data key="d6">3</data>
+</node>
+<node id="6437715963">
+  <data key="d4">28.6266901</data>
+  <data key="d5">77.2231705</data>
+  <data key="d6">3</data>
+</node>
+<node id="6437715964">
+  <data key="d4">28.6263473</data>
+  <data key="d5">77.222984</data>
+  <data key="d6">3</data>
+</node>
+<node id="6439164655">
+  <data key="d4">28.6363948</data>
+  <data key="d5">77.2137395</data>
+  <data key="d6">3</data>
+</node>
+<node id="6439164658">
+  <data key="d4">28.636105</data>
+  <data key="d5">77.2142417</data>
+  <data key="d6">3</data>
+</node>
+<node id="6439164662">
+  <data key="d4">28.6364741</data>
+  <data key="d5">77.2140997</data>
+  <data key="d6">3</data>
+</node>
+<node id="6637358436">
+  <data key="d4">28.6266137</data>
+  <data key="d5">77.2236782</data>
+  <data key="d6">3</data>
+</node>
+<node id="6637358439">
+  <data key="d4">28.6267042</data>
+  <data key="d5">77.2232575</data>
+  <data key="d6">3</data>
+</node>
+<node id="6646336237">
+  <data key="d4">28.6315818</data>
+  <data key="d5">77.2170792</data>
+  <data key="d6">3</data>
+</node>
+<node id="6649221978">
+  <data key="d4">28.6285861</data>
+  <data key="d5">77.2248053</data>
+  <data key="d6">3</data>
+</node>
+<node id="6649221979">
+  <data key="d4">28.6279523</data>
+  <data key="d5">77.2239806</data>
+  <data key="d6">3</data>
+</node>
+<node id="6649221980">
+  <data key="d4">28.6291654</data>
+  <data key="d5">77.2233121</data>
+  <data key="d6">3</data>
+</node>
+<node id="6758692739">
+  <data key="d4">28.626091</data>
+  <data key="d5">77.2235974</data>
+  <data key="d6">3</data>
+</node>
+<node id="6758692740">
+  <data key="d4">28.6265847</data>
+  <data key="d5">77.2238129</data>
+  <data key="d6">3</data>
+</node>
+<node id="9195108424">
+  <data key="d4">28.6260878</data>
+  <data key="d5">77.2216224</data>
+  <data key="d7">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="9212682340">
+  <data key="d4">28.6272785</data>
+  <data key="d5">77.2155756</data>
+  <data key="d6">3</data>
+</node>
+<node id="9234696669">
+  <data key="d4">28.6302257</data>
+  <data key="d5">77.2240555</data>
+  <data key="d6">3</data>
+</node>
+<node id="9234696672">
+  <data key="d4">28.6306096</data>
+  <data key="d5">77.2232032</data>
+  <data key="d6">3</data>
+</node>
+<node id="9579967710">
+  <data key="d4">28.63335</data>
+  <data key="d5">77.2247762</data>
+  <data key="d6">3</data>
+</node>
+<node id="9579967713">
+  <data key="d4">28.6341666</data>
+  <data key="d5">77.2233681</data>
+  <data key="d6">1</data>
+</node>
+<node id="9794183553">
+  <data key="d4">28.627188</data>
+  <data key="d5">77.2147019</data>
+  <data key="d6">3</data>
+</node>
+<node id="9794183554">
+  <data key="d4">28.6269549</data>
+  <data key="d5">77.2153095</data>
+  <data key="d6">4</data>
+</node>
+<node id="9857860386">
+  <data key="d4">28.6308053</data>
+  <data key="d5">77.2163205</data>
+  <data key="d6">3</data>
+</node>
+<node id="9857860395">
+  <data key="d4">28.6311373</data>
+  <data key="d5">77.2161243</data>
+  <data key="d6">3</data>
+</node>
+<node id="9857860410">
+  <data key="d4">28.630675</data>
+  <data key="d5">77.2133095</data>
+  <data key="d6">3</data>
+</node>
+<node id="9859502221">
+  <data key="d4">28.6316107</data>
+  <data key="d5">77.2140292</data>
+  <data key="d6">1</data>
+</node>
+<node id="9859502222">
+  <data key="d4">28.6311235</data>
+  <data key="d5">77.2143196</data>
+  <data key="d6">3</data>
+</node>
+<node id="9880451646">
+  <data key="d4">28.6351806</data>
+  <data key="d5">77.2215809</data>
+  <data key="d6">3</data>
+</node>
+<node id="10230413737">
+  <data key="d4">28.6300174</data>
+  <data key="d5">77.2160016</data>
+  <data key="d6">1</data>
+</node>
+<node id="10246421063">
+  <data key="d4">28.6308967</data>
+  <data key="d5">77.2207434</data>
+  <data key="d6">3</data>
+</node>
+<node id="10246421064">
+  <data key="d4">28.6305647</data>
+  <data key="d5">77.220915</data>
+  <data key="d6">1</data>
+</node>
+<node id="10254979373">
+  <data key="d4">28.6281249</data>
+  <data key="d5">77.2205815</data>
+  <data key="d6">1</data>
+</node>
+<node id="10262384320">
+  <data key="d4">28.6309842</data>
+  <data key="d5">77.2140058</data>
+  <data key="d6">3</data>
+</node>
+<node id="10262384321">
+  <data key="d4">28.6307057</data>
+  <data key="d5">77.2141811</data>
+  <data key="d6">1</data>
+</node>
+<node id="10264334421">
+  <data key="d4">28.6266867</data>
+  <data key="d5">77.2150807</data>
+  <data key="d6">3</data>
+</node>
+<node id="10264334423">
+  <data key="d4">28.6270749</data>
+  <data key="d5">77.2150514</data>
+  <data key="d6">3</data>
+</node>
+<node id="10264334424">
+  <data key="d4">28.6266478</data>
+  <data key="d5">77.2151697</data>
+  <data key="d6">3</data>
+</node>
+<node id="11462925576">
+  <data key="d4">28.6311799</data>
+  <data key="d5">77.2159299</data>
+  <data key="d6">3</data>
+</node>
+<node id="11462925584">
+  <data key="d4">28.6308149</data>
+  <data key="d5">77.2146657</data>
+  <data key="d6">1</data>
+</node>
+<node id="12044622897">
+  <data key="d4">28.6301422</data>
+  <data key="d5">77.2239972</data>
+  <data key="d6">3</data>
+</node>
+<node id="12816056486">
+  <data key="d4">28.6301219</data>
+  <data key="d5">77.2176977</data>
+  <data key="d6">3</data>
+</node>
+<node id="12816056487">
+  <data key="d4">28.6300736</data>
+  <data key="d5">77.2177886</data>
+  <data key="d6">3</data>
+</node>
+<node id="12836557588">
+  <data key="d4">28.632977</data>
+  <data key="d5">77.2229795</data>
+  <data key="d6">3</data>
+</node>
+<node id="12836557589">
+  <data key="d4">28.6329938</data>
+  <data key="d5">77.2234235</data>
+  <data key="d6">3</data>
+</node>
+<edge source="249782331" target="267198390" id="0">
+  <data key="d8">23133600</data>
+  <data key="d9">residential</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">250.59760147888832</data>
+  <data key="d13">LINESTRING (77.2217092 28.631635, 77.2218192 28.6317961, 77.2219124 28.6319651, 77.2219756 28.6321115, 77.2219882 28.6321408, 77.2220459 28.6323216, 77.2220743 28.6324555, 77.222085 28.6325062, 77.2221005 28.6326494, 77.2221053 28.6326932, 77.2221065 28.6328501, 77.2221067 28.632881, 77.222089 28.6330682, 77.2220524 28.6332532, 77.2219973 28.6334347, 77.221924 28.6336111, 77.2218332 28.6337812)</data>
+</edge>
+<edge source="249782331" target="1869716862" id="0">
+  <data key="d8">1375201075</data>
+  <data key="d9">tertiary</data>
+  <data key="d14">Radial Road 7</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">80.41430421468664</data>
+  <data key="d13">LINESTRING (77.2217092 28.631635, 77.2222428 28.6313365, 77.222404 28.6312463)</data>
+</edge>
+<edge source="249782337" target="10246421063" id="0">
+  <data key="d8">23133600</data>
+  <data key="d9">residential</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">121.71117512694174</data>
+  <data key="d13">LINESTRING (77.2195322 28.6306928, 77.2197441 28.6306879, 77.2199556 28.6306994, 77.2200739 28.6307132, 77.2201652 28.6307271, 77.2203711 28.630771, 77.2205719 28.6308305, 77.2207434 28.6308967)</data>
+</edge>
+<edge source="249782337" target="1191294765" id="0">
+  <data key="d8">24577480</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">3</data>
+  <data key="d14">Radial Road 1</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">109.67698033061951</data>
+  <data key="d13">LINESTRING (77.2195322 28.6306928, 77.2195553 28.6311044, 77.2195662 28.631324, 77.2195719 28.6314124, 77.2195737 28.6314455, 77.2195814 28.6315893, 77.2195821 28.6316781)</data>
+</edge>
+<edge source="249782343" target="6646336237" id="0">
+  <data key="d8">24577488</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">3</data>
+  <data key="d14">Radial Road 2</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">55.593937740428196</data>
+  <data key="d13">LINESTRING (77.2175751 28.6318278, 77.2172822 28.6316826, 77.2170792 28.6315818)</data>
+</edge>
+<edge source="249782349" target="249782343" id="0">
+  <data key="d8">23133600</data>
+  <data key="d9">residential</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">246.82813741524828</data>
+  <data key="d13">LINESTRING (77.2176776 28.63394, 77.2176204 28.6338616, 77.2175552 28.6337563, 77.2174968 28.6336479, 77.2174456 28.6335367, 77.2174016 28.6334232, 77.217365 28.6333077, 77.217336 28.6331905, 77.2173146 28.6330721, 77.2173009 28.6329528, 77.2172949 28.632833, 77.2172966 28.6327131, 77.2173061 28.6325935, 77.2173233 28.6324745, 77.2173482 28.6323566, 77.2173807 28.6322402, 77.2174206 28.6321255, 77.2174679 28.632013, 77.2175224 28.6319031, 77.2175751 28.6318278)</data>
+</edge>
+<edge source="249782349" target="249783308" id="0">
+  <data key="d8">24577487</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">2</data>
+  <data key="d14">Radial Road 3</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">74.12925795681532</data>
+  <data key="d13">LINESTRING (77.2176776 28.63394, 77.2172568 28.634179, 77.2172211 28.6341993, 77.2171298 28.6342511, 77.2170406 28.6343031)</data>
+</edge>
+<edge source="249783257" target="267198390" id="0">
+  <data key="d8">24577483</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">2</data>
+  <data key="d14">Radial Road 6</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">86.6020626321579</data>
+  <data key="d13">LINESTRING (77.2225404 28.6341977, 77.222516 28.634119, 77.2224949 28.6340854, 77.2224685 28.6340597, 77.2224339 28.6340366, 77.222397 28.6340157, 77.2218332 28.6337812)</data>
+</edge>
+<edge source="249783257" target="1869716916" id="0">
+  <data key="d8">572511732</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">91.35935065060723</data>
+  <data key="d13">LINESTRING (77.2225404 28.6341977, 77.2227221 28.6338984, 77.2228204 28.6336759, 77.2228973 28.633447, 77.2228984 28.6334419)</data>
+</edge>
+<edge source="249783291" target="5681450581" id="0">
+  <data key="d8">23133709</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">115.25520065954179</data>
+  <data key="d13">LINESTRING (77.2209174 28.6300832, 77.2208552 28.6300608, 77.220815 28.6300478, 77.2206518 28.6299952, 77.2205331 28.6299741, 77.2202029 28.6299163, 77.2200819 28.6299063, 77.2198676 28.6298886, 77.2197987 28.6298842, 77.2197655 28.629882)</data>
+</edge>
+<edge source="249783293" target="249782337" id="0">
+  <data key="d8">24577480</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">3</data>
+  <data key="d14">Radial Road 1</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">88.96271196826423</data>
+  <data key="d13">LINESTRING (77.2194853 28.6298938, 77.2194961 28.6300779, 77.2195014 28.6301679, 77.2195053 28.630235, 77.2195281 28.6306228, 77.2195322 28.6306928)</data>
+</edge>
+<edge source="249783293" target="267198388" id="0">
+  <data key="d8">562340241</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">132.0280350059143</data>
+  <data key="d13">LINESTRING (77.2194853 28.6298938, 77.2193141 28.6299109, 77.2192426 28.6299181, 77.2189581 28.6299672, 77.2186797 28.6300383, 77.2184096 28.6301307, 77.2181923 28.6302174)</data>
+</edge>
+<edge source="249783302" target="9857860395" id="0">
+  <data key="d8">24583332</data>
+  <data key="d9">secondary</data>
+  <data key="d15">3</data>
+  <data key="d14">Baba Kharak Singh Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">68.47811478011705</data>
+  <data key="d13">LINESTRING (77.2167421 28.6314291, 77.2165448 28.6313349, 77.2161964 28.6311684, 77.2161243 28.6311373)</data>
+</edge>
+<edge source="249783302" target="1762977534" id="0">
+  <data key="d8">578543605</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">28.265991044398714</data>
+  <data key="d13">LINESTRING (77.2167421 28.6314291, 77.216722 28.631489, 77.2166601 28.6316729)</data>
+</edge>
+<edge source="249783308" target="345265121" id="0">
+  <data key="d8">578543604</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">16.567436101138288</data>
+</edge>
+<edge source="249783313" target="249783316" id="0">
+  <data key="d8">446922590</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">100.48862344286765</data>
+  <data key="d13">LINESTRING (77.2188663 28.6355861, 77.2191658 28.6356418, 77.2194699 28.6356738, 77.2196659 28.6357004, 77.2197623 28.6357135, 77.21982 28.6357191, 77.2198833 28.6357191)</data>
+</edge>
+<edge source="249783316" target="267198392" id="0">
+  <data key="d8">24577486</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">3</data>
+  <data key="d14">Radial Road 4</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">90.36094476971304</data>
+  <data key="d13">LINESTRING (77.2198833 28.6357191, 77.2198719 28.6355209, 77.2198689 28.6354683, 77.2198418 28.6349975, 77.2198366 28.6349075)</data>
+</edge>
+<edge source="249783316" target="5681296953" id="0">
+  <data key="d8">446922590</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">159.8883977139281</data>
+  <data key="d13">LINESTRING (77.2198833 28.6357191, 77.2199296 28.6357173, 77.2199976 28.6357078, 77.2200349 28.6356967, 77.2204439 28.6355749, 77.2210487 28.6353948, 77.2213076 28.6353155, 77.2213537 28.6353014, 77.221439 28.6352759)</data>
+</edge>
+<edge source="267198388" target="3947529835" id="0">
+  <data key="d8">562340248</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">31.60724305838148</data>
+  <data key="d13">LINESTRING (77.2181923 28.6302174, 77.2180411 28.6302682, 77.2179008 28.6303392)</data>
+</edge>
+<edge source="267198388" target="12816056487" id="0">
+  <data key="d8">570616028</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">44.62182196121512</data>
+  <data key="d13">LINESTRING (77.2181923 28.6302174, 77.2181247 28.6302198, 77.218057 28.6302159, 77.2179911 28.6302022, 77.2179285 28.6301792, 77.2178711 28.6301476, 77.2178204 28.6301081, 77.2177886 28.6300736)</data>
+</edge>
+<edge source="267198390" target="1869716945" id="0">
+  <data key="d8">23133600</data>
+  <data key="d9">residential</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">121.39825593917543</data>
+  <data key="d13">LINESTRING (77.2218332 28.6337812, 77.2217344 28.6339312, 77.221622 28.6340736, 77.2215063 28.6341971, 77.2214967 28.6342074, 77.2213593 28.6343318, 77.2212107 28.6344459, 77.2210037 28.6345795)</data>
+</edge>
+<edge source="267198390" target="1869716906" id="0">
+  <data key="d8">24577483</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">2</data>
+  <data key="d14">Radial Road 6</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">110.57247103620077</data>
+  <data key="d13">LINESTRING (77.2218332 28.6337812, 77.2211662 28.6335041, 77.2208092 28.6333557)</data>
+</edge>
+<edge source="267198392" target="249782349" id="0">
+  <data key="d8">23133600</data>
+  <data key="d9">residential</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">248.12114751146837</data>
+  <data key="d13">LINESTRING (77.2198366 28.6349075, 77.2196441 28.6349121, 77.2194908 28.6349046, 77.2193384 28.6348886, 77.2191875 28.634864, 77.2190386 28.634831, 77.2188924 28.6347898, 77.2187496 28.6347405, 77.2186106 28.6346833, 77.2184742 28.6346175, 77.218343 28.6345441, 77.2182175 28.6344634, 77.2180982 28.6343758, 77.2179855 28.6342816, 77.2178801 28.6341812, 77.2177822 28.634075, 77.2176776 28.63394)</data>
+</edge>
+<edge source="267198392" target="267198394" id="0">
+  <data key="d8">24577486</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">3</data>
+  <data key="d14">Radial Road 4</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">109.10147398334038</data>
+  <data key="d13">LINESTRING (77.2198366 28.6349075, 77.2198011 28.6342793, 77.2197924 28.6341262, 77.2197696 28.6339283)</data>
+</edge>
+<edge source="267198394" target="939091095" id="0">
+  <data key="d8">23133486</data>
+  <data key="d9">tertiary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">3</data>
+  <data key="d14">Rajiv Chowk</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">64.79020597199299</data>
+  <data key="d13">LINESTRING (77.2197696 28.6339283, 77.2199011 28.6339092, 77.2200307 28.6338846, 77.2201568 28.6338484, 77.2202779 28.6338009, 77.2203928 28.6337427)</data>
+</edge>
+<edge source="267247451" target="267247452" id="0">
+  <data key="d8">1374634869</data>
+  <data key="d9">unclassified</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">32.687489838330634</data>
+  <data key="d13">LINESTRING (77.2254922 28.6328887, 77.2254643 28.6327716, 77.2253915 28.6326094)</data>
+</edge>
+<edge source="267247452" target="267247454" id="0">
+  <data key="d8">1374634869</data>
+  <data key="d9">unclassified</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">128.4802914486805</data>
+</edge>
+<edge source="267247452" target="267247451" id="0">
+  <data key="d8">1374634869</data>
+  <data key="d9">unclassified</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">32.687489838330634</data>
+  <data key="d13">LINESTRING (77.2253915 28.6326094, 77.2254643 28.6327716, 77.2254922 28.6328887)</data>
+</edge>
+<edge source="267247454" target="267247452" id="0">
+  <data key="d8">1374634869</data>
+  <data key="d9">unclassified</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">128.4802914486805</data>
+</edge>
+<edge source="267247454" target="267247456" id="0">
+  <data key="d8">1374634869</data>
+  <data key="d9">unclassified</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">70.44303750511435</data>
+  <data key="d13">LINESTRING (77.2247024 28.6316249, 77.224305 28.6315805, 77.2241958 28.6315533, 77.2241251 28.6315149, 77.2240419 28.6314336)</data>
+</edge>
+<edge source="267247456" target="267247460" id="0">
+  <data key="d8">24582921</data>
+  <data key="d9">unclassified</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">127.45202272193987</data>
+  <data key="d13">LINESTRING (77.2240419 28.6314336, 77.2239292 28.6314863, 77.2237254 28.631579, 77.2234857 28.6316641, 77.223029 28.6317991, 77.2228317 28.6318574)</data>
+</edge>
+<edge source="267247456" target="267247454" id="0">
+  <data key="d8">1374634869</data>
+  <data key="d9">unclassified</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">70.44303750511435</data>
+  <data key="d13">LINESTRING (77.2240419 28.6314336, 77.2241251 28.6315149, 77.2241958 28.6315533, 77.224305 28.6315805, 77.2247024 28.6316249)</data>
+</edge>
+<edge source="267247460" target="267247456" id="0">
+  <data key="d8">24582921</data>
+  <data key="d9">unclassified</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">127.45202272193987</data>
+  <data key="d13">LINESTRING (77.2228317 28.6318574, 77.223029 28.6317991, 77.2234857 28.6316641, 77.2237254 28.631579, 77.2239292 28.6314863, 77.2240419 28.6314336)</data>
+</edge>
+<edge source="267247460" target="939091123" id="0">
+  <data key="d8">572511732</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">56.843152940647535</data>
+  <data key="d13">LINESTRING (77.2228317 28.6318574, 77.2226226 28.6315087, 77.2225605 28.631405)</data>
+</edge>
+<edge source="267247464" target="9579967710" id="0">
+  <data key="d8">24582917</data>
+  <data key="d9">unclassified</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">151.61423033996442</data>
+  <data key="d13">LINESTRING (77.2233233 28.6335226, 77.2238944 28.6336313, 77.2241282 28.6336312, 77.224329 28.6335973, 77.2244858 28.6335344, 77.2247762 28.63335)</data>
+</edge>
+<edge source="267247464" target="12836557589" id="0">
+  <data key="d8">24582920</data>
+  <data key="d9">unclassified</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">60.15973500872383</data>
+  <data key="d13">LINESTRING (77.2233233 28.6335226, 77.2233865 28.6330479, 77.2234235 28.6329938)</data>
+</edge>
+<edge source="267247468" target="267247451" id="0">
+  <data key="d8">24582917</data>
+  <data key="d9">unclassified</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">72.07448684962762</data>
+  <data key="d13">LINESTRING (77.2249216 28.6332724, 77.2254222 28.6330053, 77.2254715 28.632949, 77.2254922 28.6328887)</data>
+</edge>
+<edge source="267247468" target="12836557589" id="0">
+  <data key="d8">24582920</data>
+  <data key="d9">unclassified</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">173.33739832921012</data>
+  <data key="d13">LINESTRING (77.2249216 28.6332724, 77.2246547 28.6329302, 77.2245746 28.6328734, 77.2244524 28.6328607, 77.2235536 28.6329002, 77.223467 28.6329302, 77.2234235 28.6329938)</data>
+</edge>
+<edge source="267250978" target="6637358436" id="0">
+  <data key="d8">563679820</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">32.28683807268704</data>
+</edge>
+<edge source="267250978" target="5434484052" id="0">
+  <data key="d8">563975285</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Kasturba Gandhi Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">11.144688877736048</data>
+</edge>
+<edge source="267250981" target="5681450605" id="0">
+  <data key="d8">563791811</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">10.653440006525626</data>
+</edge>
+<edge source="267250981" target="5792664578" id="0">
+  <data key="d8">614072000</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Janpath</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">15.86456641210506</data>
+</edge>
+<edge source="267250993" target="5682466820" id="0">
+  <data key="d8">74851428</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">81.18489922872502</data>
+  <data key="d13">LINESTRING (77.2156923 28.6268396, 77.2158523 28.6266977, 77.2158793 28.6266526, 77.2158904 28.6266116, 77.2159148 28.6263224, 77.215924 28.6262714, 77.2159392 28.6262207, 77.2159548 28.6261796)</data>
+</edge>
+<edge source="267250994" target="5434483896" id="0">
+  <data key="d8">24577478</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">10.73663685323213</data>
+</edge>
+<edge source="267250994" target="267250993" id="0">
+  <data key="d8">74851428</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">31.017487837390917</data>
+</edge>
+<edge source="267250994" target="4083435341" id="0">
+  <data key="d8">1066619123</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">6.690316294290443</data>
+</edge>
+<edge source="267250995" target="4083435341" id="0">
+  <data key="d8">997761547</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">4</data>
+  <data key="d14">Jai Singh Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">35.065134409521</data>
+  <data key="d13">LINESTRING (77.215061 28.6271859, 77.2152839 28.6270657, 77.2153711 28.6270271)</data>
+</edge>
+<edge source="267250995" target="9212682340" id="0">
+  <data key="d8">997761548</data>
+  <data key="d9">tertiary</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">53.14785216284215</data>
+  <data key="d13">LINESTRING (77.215061 28.6271859, 77.2151602 28.6271719, 77.2152206 28.627166, 77.2152816 28.6271666, 77.2153185 28.6271719, 77.2153513 28.6271813, 77.2154291 28.6272202, 77.2155756 28.6272785)</data>
+</edge>
+<edge source="267251576" target="5434484032" id="0">
+  <data key="d8">24583586</data>
+  <data key="d9">residential</data>
+  <data key="d14">Atul Grove Road</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">14.533197442710682</data>
+</edge>
+<edge source="267251576" target="6436532340" id="0">
+  <data key="d8">563791811</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">46.97277684369469</data>
+  <data key="d13">LINESTRING (77.2216316 28.6263259, 77.2217907 28.6263174, 77.2218811 28.6263126, 77.2221119 28.626326)</data>
+</edge>
+<edge source="345265121" target="432874005" id="0">
+  <data key="d8">578543606</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">125.54402166866745</data>
+  <data key="d13">LINESTRING (77.2171312 28.6344291, 77.2175564 28.6348446, 77.2180055 28.6352571)</data>
+</edge>
+<edge source="395135093" target="6436657802" id="0">
+  <data key="d8">44263461</data>
+  <data key="d9">residential</data>
+  <data key="d14">Jain Mandir Marg</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">260.0492349148162</data>
+  <data key="d13">LINESTRING (77.2132927 28.6321715, 77.2136103 28.6321402, 77.2141041 28.6321031, 77.2146322 28.63207, 77.2154844 28.6320315, 77.2156013 28.6320191, 77.2156626 28.6319895, 77.2157151 28.6319419, 77.2158251 28.6317918)</data>
+</edge>
+<edge source="395135093" target="9857860410" id="0">
+  <data key="d8">1074774614</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">180.04152441261252</data>
+  <data key="d13">LINESTRING (77.2132927 28.6321715, 77.2136004 28.6315753, 77.213636 28.6314809, 77.2136439 28.631386, 77.2136161 28.6312962, 77.2133095 28.630675)</data>
+</edge>
+<edge source="395135103" target="1762977534" id="0">
+  <data key="d8">615556515</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Baba Kharak Singh Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">70.74119949235623</data>
+  <data key="d13">LINESTRING (77.2161249 28.6312729, 77.2164747 28.6314483, 77.2165478 28.6315, 77.2165999 28.6315591, 77.2166601 28.6316729)</data>
+</edge>
+<edge source="395135103" target="6436657802" id="0">
+  <data key="d8">[615556516, 44263461]</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">64.69998809154795</data>
+  <data key="d14">Jain Mandir Marg</data>
+  <data key="d13">LINESTRING (77.2161249 28.6312729, 77.2159983 28.6315006, 77.2158251 28.6317918)</data>
+</edge>
+<edge source="432874005" target="912971480" id="0">
+  <data key="d8">80414533</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Chelmsford Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">30.32594039750388</data>
+  <data key="d13">LINESTRING (77.2180055 28.6352571, 77.218057 28.6353777, 77.218061 28.635387, 77.2181403 28.6355015)</data>
+</edge>
+<edge source="432874005" target="249783313" id="0">
+  <data key="d8">730111073</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">92.15256748183546</data>
+  <data key="d13">LINESTRING (77.2180055 28.6352571, 77.218109 28.6353093, 77.2182027 28.6353565, 77.2183626 28.6354345, 77.21862 28.6355299, 77.2188663 28.6355861)</data>
+</edge>
+<edge source="939091095" target="1869716906" id="0">
+  <data key="d8">23133486</data>
+  <data key="d9">tertiary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">3</data>
+  <data key="d14">Rajiv Chowk</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">59.72884750007515</data>
+  <data key="d13">LINESTRING (77.2203928 28.6337427, 77.2205164 28.6336627, 77.2205701 28.6336184, 77.2206283 28.6335703, 77.220695 28.6335031, 77.2207554 28.6334314, 77.2208092 28.6333557)</data>
+</edge>
+<edge source="939091095" target="1869716945" id="0">
+  <data key="d8">174274680</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">3</data>
+  <data key="d14">Radial Road 5</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">110.5107388778806</data>
+  <data key="d13">LINESTRING (77.2203928 28.6337427, 77.2206125 28.6340437, 77.2210037 28.6345795)</data>
+</edge>
+<edge source="939091123" target="1869716862" id="0">
+  <data key="d8">446922591</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">23.33888698886812</data>
+</edge>
+<edge source="939091123" target="939091064" id="0">
+  <data key="d8">578543603</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Barakhamba Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">32.76418857534777</data>
+  <data key="d13">LINESTRING (77.2225605 28.631405, 77.2225942 28.6312649, 77.2226091 28.6312208, 77.222632 28.6311723, 77.222658 28.6311245)</data>
+</edge>
+<edge source="1191294738" target="1191294827" id="0">
+  <data key="d8">103176785</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">39.302246838135474</data>
+  <data key="d13">LINESTRING (77.2174125 28.6284041, 77.2177507 28.6283909, 77.2178041 28.6284221)</data>
+</edge>
+<edge source="1191294743" target="1191294833" id="0">
+  <data key="d8">103176785</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">53.01355734696188</data>
+</edge>
+<edge source="1191294743" target="1191294827" id="0">
+  <data key="d8">103176785</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">75.2360622142578</data>
+  <data key="d13">LINESTRING (77.2177243 28.6290735, 77.2177866 28.6290006, 77.2178088 28.6289602, 77.2178119 28.6289197, 77.2178224 28.628476, 77.2178041 28.6284221)</data>
+</edge>
+<edge source="1191294743" target="4398506629" id="0">
+  <data key="d8">223906999</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">137.46718371457325</data>
+  <data key="d13">LINESTRING (77.2177243 28.6290735, 77.2180543 28.6290069, 77.2185187 28.6289842, 77.2191234 28.6289902)</data>
+</edge>
+<edge source="1191294765" target="1191294803" id="0">
+  <data key="d8">23133486</data>
+  <data key="d9">tertiary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">3</data>
+  <data key="d14">Rajiv Chowk</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">63.64433760536005</data>
+  <data key="d13">LINESTRING (77.2195821 28.6316781, 77.2193882 28.6317065, 77.219223 28.6317714, 77.2189724 28.6318698)</data>
+</edge>
+<edge source="1191294803" target="1869716891" id="0">
+  <data key="d8">23133486</data>
+  <data key="d9">tertiary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">3</data>
+  <data key="d14">Rajiv Chowk</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">58.492751870553704</data>
+  <data key="d13">LINESTRING (77.2189724 28.6318698, 77.2188463 28.6319587, 77.2186847 28.632107, 77.2185744 28.6322574)</data>
+</edge>
+<edge source="1191294803" target="3947529835" id="0">
+  <data key="d8">391534135</data>
+  <data key="d9">tertiary</data>
+  <data key="d14">Way to Palika Car Parking</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">199.9662667898025</data>
+  <data key="d13">LINESTRING (77.2189724 28.6318698, 77.2187982 28.6315839, 77.2187588 28.6315202, 77.218698 28.63142, 77.2186158 28.6312879, 77.2182679 28.6308122, 77.2181438 28.6306523, 77.218028 28.6305031, 77.2179008 28.6303392)</data>
+</edge>
+<edge source="1191294827" target="4231387111" id="0">
+  <data key="d8">686657381</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">59.16112787644146</data>
+</edge>
+<edge source="1191294827" target="1191294743" id="0">
+  <data key="d8">103176785</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">75.23606221425781</data>
+  <data key="d13">LINESTRING (77.2178041 28.6284221, 77.2178224 28.628476, 77.2178119 28.6289197, 77.2178088 28.6289602, 77.2177866 28.6290006, 77.2177243 28.6290735)</data>
+</edge>
+<edge source="1191294827" target="1191294738" id="0">
+  <data key="d8">103176785</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">39.302246838135474</data>
+  <data key="d13">LINESTRING (77.2178041 28.6284221, 77.2177507 28.6283909, 77.2174125 28.6284041)</data>
+</edge>
+<edge source="1191294833" target="1191294743" id="0">
+  <data key="d8">103176785</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">53.01355734696188</data>
+</edge>
+<edge source="1191294833" target="5799663735" id="0">
+  <data key="d8">1278775921</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">60.46924777403264</data>
+  <data key="d13">LINESTRING (77.2172711 28.6293363, 77.2172213 28.6292699, 77.2169405 28.6288764)</data>
+</edge>
+<edge source="1309626444" target="267250978" id="0">
+  <data key="d8">563791811</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">8.280801132456332</data>
+</edge>
+<edge source="1309626444" target="6437715963" id="0">
+  <data key="d8">579781481</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Kasturba Gandhi Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">27.619521368903392</data>
+</edge>
+<edge source="1309626482" target="1762945073" id="0">
+  <data key="d8">[570616026, 562340243]</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Kasturba Gandhi Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">108.65830485105772</data>
+  <data key="d13">LINESTRING (77.221405 28.630292, 77.2213818 28.630257, 77.2213639 28.6302198, 77.2213513 28.6301809, 77.2213444 28.6301409, 77.2213433 28.6301005, 77.2213479 28.6300603, 77.2213555 28.6300312, 77.2213582 28.6300209, 77.221374 28.6299829, 77.2214174 28.6299066, 77.2215207 28.6297253, 77.2217071 28.6293982)</data>
+</edge>
+<edge source="1309626482" target="249783291" id="0">
+  <data key="d8">562340245</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">53.009395203091984</data>
+  <data key="d13">LINESTRING (77.221405 28.630292, 77.221227 28.6302052, 77.2210434 28.6301283, 77.2209174 28.6300832)</data>
+</edge>
+<edge source="1762944960" target="9234696672" id="0">
+  <data key="d8">164675827</data>
+  <data key="d9">residential</data>
+  <data key="d14">कनॉट लेन</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">105.45195494953222</data>
+  <data key="d13">LINESTRING (77.2226204 28.6298231, 77.2227138 28.6298827, 77.2227876 28.6299523, 77.2228522 28.6300671, 77.2231208 28.6304823, 77.2232032 28.6306096)</data>
+</edge>
+<edge source="1762944960" target="1762945073" id="0">
+  <data key="d8">164675827</data>
+  <data key="d9">residential</data>
+  <data key="d14">कनॉट लेन</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">100.88525992350274</data>
+  <data key="d13">LINESTRING (77.2226204 28.6298231, 77.2224536 28.6297455, 77.2217646 28.6294249, 77.2217071 28.6293982)</data>
+</edge>
+<edge source="1762944960" target="6649221980" id="0">
+  <data key="d8">707566696</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">100.21182608673742</data>
+  <data key="d13">LINESTRING (77.2226204 28.6298231, 77.2228908 28.6296146, 77.2230476 28.6294858, 77.2231658 28.6293677, 77.2233121 28.6291654)</data>
+</edge>
+<edge source="1762944963" target="3744502776" id="0">
+  <data key="d8">80499778</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Barakhamba Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">109.59324587607628</data>
+  <data key="d13">LINESTRING (77.2232549 28.6306849, 77.2227003 28.6310098, 77.2226401 28.6310426, 77.2226098 28.6310541, 77.2225727 28.6310647, 77.2225349 28.6310656, 77.2223791 28.6310419, 77.222269 28.6310064)</data>
+</edge>
+<edge source="1762944963" target="9234696672" id="0">
+  <data key="d8">164675827</data>
+  <data key="d9">residential</data>
+  <data key="d14">कनॉट लेन</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">9.775874245886946</data>
+  <data key="d13">LINESTRING (77.2232549 28.6306849, 77.2232248 28.6306411, 77.2232032 28.6306096)</data>
+</edge>
+<edge source="1762945073" target="1762944960" id="0">
+  <data key="d8">164675827</data>
+  <data key="d9">residential</data>
+  <data key="d14">कनॉट लेन</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">100.88525992350274</data>
+  <data key="d13">LINESTRING (77.2217071 28.6293982, 77.2217646 28.6294249, 77.2224536 28.6297455, 77.2226204 28.6298231)</data>
+</edge>
+<edge source="1762945073" target="3504623687" id="0">
+  <data key="d8">570616026</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Kasturba Gandhi Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">246.0267324373591</data>
+  <data key="d13">LINESTRING (77.2217071 28.6293982, 77.2217266 28.6293617, 77.2219121 28.6290312, 77.2220838 28.6287366, 77.2227392 28.6276116, 77.2228478 28.6274252)</data>
+</edge>
+<edge source="1762977534" target="1869716895" id="0">
+  <data key="d8">564223494</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">130.19403787863172</data>
+  <data key="d13">LINESTRING (77.2166601 28.6316729, 77.2165819 28.6319608, 77.2164923 28.6323795, 77.2164715 28.6325014, 77.2164221 28.6327899, 77.2164164 28.6328234)</data>
+</edge>
+<edge source="1869716862" target="3744502776" id="0">
+  <data key="d8">760480736</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">29.75221835862333</data>
+</edge>
+<edge source="1869716862" target="939091064" id="0">
+  <data key="d8">760480737</data>
+  <data key="d9">secondary</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">28.248396234968872</data>
+</edge>
+<edge source="1869716889" target="1191294765" id="0">
+  <data key="d8">23133486</data>
+  <data key="d9">tertiary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">3</data>
+  <data key="d14">Rajiv Chowk</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">133.90278649579096</data>
+  <data key="d13">LINESTRING (77.2207567 28.6321678, 77.2206356 28.6320341, 77.2205163 28.6319161, 77.2203727 28.6318222, 77.2202627 28.6317719, 77.2201558 28.6317363, 77.2199695 28.6316997, 77.2198217 28.6316815, 77.2197768 28.631676, 77.2195821 28.6316781)</data>
+</edge>
+<edge source="1869716889" target="249782331" id="0">
+  <data key="d8">24577482</data>
+  <data key="d9">tertiary</data>
+  <data key="d14">Radial Road 7</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">110.23540326526043</data>
+  <data key="d13">LINESTRING (77.2207567 28.6321678, 77.2211001 28.6319757, 77.2212982 28.6318649, 77.2217092 28.631635)</data>
+</edge>
+<edge source="1869716891" target="1869716913" id="0">
+  <data key="d8">23133486</data>
+  <data key="d9">tertiary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">3</data>
+  <data key="d14">Rajiv Chowk</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">134.05499935795797</data>
+  <data key="d13">LINESTRING (77.2185744 28.6322574, 77.2185365 28.6323241, 77.2185101 28.6323706, 77.2184612 28.6324954, 77.2184292 28.6326243, 77.2184138 28.6327868, 77.2184244 28.6329374, 77.2184253 28.6329495, 77.2184634 28.6331091, 77.2185004 28.6331973, 77.2185275 28.6332621, 77.2186161 28.6334054)</data>
+</edge>
+<edge source="1869716891" target="249782343" id="0">
+  <data key="d8">24577488</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">3</data>
+  <data key="d14">Radial Road 2</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">108.6156481852767</data>
+  <data key="d13">LINESTRING (77.2185744 28.6322574, 77.2184809 28.6322214, 77.2182548 28.6321267, 77.2182071 28.6321067, 77.2181956 28.6321017, 77.2180698 28.6320468, 77.2177412 28.6319034, 77.2175751 28.6318278)</data>
+</edge>
+<edge source="1869716895" target="249783308" id="0">
+  <data key="d8">554665389</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">176.91660336291736</data>
+  <data key="d13">LINESTRING (77.2164164 28.6328234, 77.2164376 28.6330471, 77.2164752 28.633187, 77.2165136 28.6332886, 77.2165784 28.6334225, 77.216692 28.6336153, 77.2168298 28.6339061, 77.2169271 28.6341025, 77.2169647 28.6341784, 77.2170406 28.6343031)</data>
+</edge>
+<edge source="1869716906" target="1869716889" id="0">
+  <data key="d8">23133486</data>
+  <data key="d9">tertiary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">3</data>
+  <data key="d14">Rajiv Chowk</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">139.10462232231953</data>
+  <data key="d13">LINESTRING (77.2208092 28.6333557, 77.2208941 28.6331974, 77.22095 28.6330295, 77.2209582 28.6329679, 77.2209768 28.6328285, 77.2209621 28.6326265, 77.2209516 28.6325893, 77.2209065 28.63243, 77.2208116 28.6322455, 77.2207567 28.6321678)</data>
+</edge>
+<edge source="1869716913" target="267198394" id="0">
+  <data key="d8">23133486</data>
+  <data key="d9">tertiary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">3</data>
+  <data key="d14">Rajiv Chowk</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">132.34800076939942</data>
+  <data key="d13">LINESTRING (77.2186161 28.6334054, 77.2187978 28.6336009, 77.2190004 28.633744, 77.2190729 28.6337821, 77.219146 28.6338151, 77.2193018 28.6338694, 77.2194307 28.6338979, 77.2194644 28.6339053, 77.2195654 28.633918, 77.2196672 28.6339235, 77.2197696 28.6339283)</data>
+</edge>
+<edge source="1869716913" target="249782349" id="0">
+  <data key="d8">24577487</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">2</data>
+  <data key="d14">Radial Road 3</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">109.19314782796062</data>
+  <data key="d13">LINESTRING (77.2186161 28.6334054, 77.2182818 28.6335958, 77.2176776 28.63394)</data>
+</edge>
+<edge source="1869716916" target="267247464" id="0">
+  <data key="d8">24582917</data>
+  <data key="d9">unclassified</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">42.42843374953804</data>
+</edge>
+<edge source="1869716916" target="12836557588" id="0">
+  <data key="d8">572511732</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">52.370467454866095</data>
+  <data key="d13">LINESTRING (77.2228984 28.6334419, 77.2229662 28.6331305, 77.2229795 28.632977)</data>
+</edge>
+<edge source="1869716945" target="267198392" id="0">
+  <data key="d8">23133600</data>
+  <data key="d9">residential</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">120.90345085814738</data>
+  <data key="d13">LINESTRING (77.2210037 28.6345795, 77.2209104 28.6346269, 77.2207631 28.6346962, 77.2206106 28.6347563, 77.2204537 28.6348069, 77.2202932 28.6348479, 77.2201298 28.634879, 77.2199644 28.6349001, 77.2198366 28.6349075)</data>
+</edge>
+<edge source="1869716945" target="9880451646" id="0">
+  <data key="d8">174274680</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">3</data>
+  <data key="d14">Radial Road 5</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">89.38208310202602</data>
+  <data key="d13">LINESTRING (77.2210037 28.6345795, 77.2213324 28.6350104, 77.2213842 28.6350783, 77.2214219 28.6351136, 77.2214718 28.6351402, 77.2215809 28.6351806)</data>
+</edge>
+<edge source="2327524055" target="4398506629" id="0">
+  <data key="d8">223906999</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">29.374575711586893</data>
+</edge>
+<edge source="2327524055" target="249783293" id="0">
+  <data key="d8">563679821</data>
+  <data key="d9">secondary</data>
+  <data key="d15">2</data>
+  <data key="d14">Janpath</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">101.27371947062898</data>
+  <data key="d13">LINESTRING (77.2194243 28.6289846, 77.2194656 28.6296001, 77.2194853 28.6298938)</data>
+</edge>
+<edge source="2431986249" target="5792664579" id="0">
+  <data key="d8">74851428</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">147.44759634908155</data>
+  <data key="d13">LINESTRING (77.2175777 28.6262047, 77.2178624 28.6263215, 77.2179814 28.6263703, 77.2181234 28.6264127, 77.2182065 28.626435, 77.2182676 28.6264431, 77.219034 28.6264434)</data>
+</edge>
+<edge source="2431986249" target="2431986255" id="0">
+  <data key="d8">442157836</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">108.13563834118662</data>
+  <data key="d13">LINESTRING (77.2175777 28.6262047, 77.2175623 28.6268052, 77.2175566 28.627177)</data>
+</edge>
+<edge source="2431986255" target="4231387109" id="0">
+  <data key="d8">235103610</data>
+  <data key="d9">residential</data>
+  <data key="d14">Janpath Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">82.69677293537565</data>
+</edge>
+<edge source="2431986255" target="4398510560" id="0">
+  <data key="d8">235103610</data>
+  <data key="d9">residential</data>
+  <data key="d14">Janpath Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">35.980932024061694</data>
+  <data key="d13">LINESTRING (77.2175566 28.627177, 77.217497 28.6271785, 77.2171881 28.6271708)</data>
+</edge>
+<edge source="2431986255" target="2431986249" id="0">
+  <data key="d8">442157836</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">108.13563834118662</data>
+  <data key="d13">LINESTRING (77.2175566 28.627177, 77.2175623 28.6268052, 77.2175777 28.6262047)</data>
+</edge>
+<edge source="2431986256" target="4231387109" id="0">
+  <data key="d8">235103610</data>
+  <data key="d9">residential</data>
+  <data key="d14">Janpath Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">87.58562116875451</data>
+  <data key="d13">LINESTRING (77.2193008 28.6271445, 77.2192695 28.6271449, 77.2184035 28.6271546)</data>
+</edge>
+<edge source="2431986256" target="2327524055" id="0">
+  <data key="d8">563679821</data>
+  <data key="d9">secondary</data>
+  <data key="d15">2</data>
+  <data key="d14">Janpath</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">204.9648954941789</data>
+  <data key="d13">LINESTRING (77.2193008 28.6271445, 77.2193459 28.6278168, 77.2193779 28.6282883, 77.2193823 28.6283589, 77.2194243 28.6289846)</data>
+</edge>
+<edge source="2592537501" target="5681450601" id="0">
+  <data key="d8">253307767</data>
+  <data key="d9">residential</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">217.58950000079642</data>
+  <data key="d13">LINESTRING (77.2216652 28.6293291, 77.221429 28.6292263, 77.2211879 28.6291214, 77.2209547 28.629037, 77.2208378 28.6289946, 77.2206897 28.6289586, 77.2205559 28.6289521, 77.2205492 28.6289518, 77.2202722 28.6289646, 77.2200133 28.6289765, 77.2197649 28.6289808, 77.2196387 28.628983, 77.2195265 28.6289849)</data>
+</edge>
+<edge source="2592537501" target="249783291" id="0">
+  <data key="d8">[579781481, 570616027]</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Kasturba Gandhi Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">120.44552927090226</data>
+  <data key="d13">LINESTRING (77.2216652 28.6293291, 77.2213212 28.6299216, 77.2212686 28.6299754, 77.2212607 28.6299818, 77.2212246 28.6300107, 77.2211742 28.6300497, 77.2211151 28.6300775, 77.2210495 28.6300946, 77.2209832 28.6300947, 77.2209174 28.6300832)</data>
+</edge>
+<edge source="3504623687" target="3504623688" id="0">
+  <data key="d8">343654534</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">103.48871310245259</data>
+  <data key="d13">LINESTRING (77.2228478 28.6274252, 77.2236953 28.6277839, 77.2238029 28.6278294)</data>
+</edge>
+<edge source="3504623687" target="6637358439" id="0">
+  <data key="d8">570616026</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Kasturba Gandhi Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">89.59076632662077</data>
+  <data key="d13">LINESTRING (77.2228478 28.6274252, 77.2230553 28.6270601, 77.2232575 28.6267042)</data>
+</edge>
+<edge source="3504623688" target="3504623690" id="0">
+  <data key="d8">343654534</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">112.25756287152203</data>
+</edge>
+<edge source="3504623688" target="6649221979" id="0">
+  <data key="d8">707566694</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">22.080826442658434</data>
+</edge>
+<edge source="3504623688" target="3504623687" id="0">
+  <data key="d8">343654534</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">103.48871310245259</data>
+  <data key="d13">LINESTRING (77.2238029 28.6278294, 77.2236953 28.6277839, 77.2228478 28.6274252)</data>
+</edge>
+<edge source="3504623690" target="3504623688" id="0">
+  <data key="d8">343654534</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">112.25756287152203</data>
+</edge>
+<edge source="3744502776" target="1309626482" id="0">
+  <data key="d8">562340247</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">116.09846211918821</data>
+  <data key="d13">LINESTRING (77.222269 28.6310064, 77.2221276 28.630872, 77.2220729 28.6308199, 77.2218948 28.6306564, 77.2218249 28.6306137, 77.221746 28.6305485, 77.22162 28.6304581, 77.2215938 28.6304378, 77.2215698 28.6304193, 77.221405 28.630292)</data>
+</edge>
+<edge source="3947529835" target="1191294803" id="0">
+  <data key="d8">391534135</data>
+  <data key="d9">tertiary</data>
+  <data key="d14">Way to Palika Car Parking</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">199.96626678980252</data>
+  <data key="d13">LINESTRING (77.2179008 28.6303392, 77.218028 28.6305031, 77.2181438 28.6306523, 77.2182679 28.6308122, 77.2186158 28.6312879, 77.218698 28.63142, 77.2187588 28.6315202, 77.2187982 28.6315839, 77.2189724 28.6318698)</data>
+</edge>
+<edge source="3947529835" target="4083436490" id="0">
+  <data key="d8">562340248</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">31.319810737791936</data>
+  <data key="d13">LINESTRING (77.2179008 28.6303392, 77.2178158 28.6303962, 77.217738 28.6304606, 77.2176681 28.6305317)</data>
+</edge>
+<edge source="4083435341" target="9212682340" id="0">
+  <data key="d8">24583327</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">34.34877280979224</data>
+</edge>
+<edge source="4083435341" target="267250994" id="0">
+  <data key="d8">1066619123</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">6.690316294290443</data>
+</edge>
+<edge source="4083435383" target="5799521554" id="0">
+  <data key="d8">24583488</data>
+  <data key="d9">residential</data>
+  <data key="d14">Hanuman Road</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">45.84203406574265</data>
+  <data key="d13">LINESTRING (77.2171227 28.6293694, 77.2169268 28.6295622, 77.2168101 28.6296771)</data>
+</edge>
+<edge source="4083435383" target="12816056486" id="0">
+  <data key="d8">[997761546, 570616029]</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">100.77667989900989</data>
+  <data key="d13">LINESTRING (77.2171227 28.6293694, 77.2176728 28.6300813, 77.2176977 28.6301219)</data>
+</edge>
+<edge source="4083436490" target="249783302" id="0">
+  <data key="d8">564223496</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">134.64261441338493</data>
+  <data key="d13">LINESTRING (77.2176681 28.6305317, 77.2173364 28.6308523, 77.217031 28.6311388, 77.2168729 28.6312977, 77.2167421 28.6314291)</data>
+</edge>
+<edge source="4231387109" target="2431986255" id="0">
+  <data key="d8">235103610</data>
+  <data key="d9">residential</data>
+  <data key="d14">Janpath Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">82.69677293537565</data>
+</edge>
+<edge source="4231387109" target="4231387111" id="0">
+  <data key="d8">423553702</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">137.29365782917208</data>
+</edge>
+<edge source="4231387109" target="2431986256" id="0">
+  <data key="d8">235103610</data>
+  <data key="d9">residential</data>
+  <data key="d14">Janpath Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">87.58562116875451</data>
+  <data key="d13">LINESTRING (77.2184035 28.6271546, 77.2192695 28.6271449, 77.2193008 28.6271445)</data>
+</edge>
+<edge source="4231387111" target="4231387109" id="0">
+  <data key="d8">423553702</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">137.29365782917208</data>
+</edge>
+<edge source="4231387111" target="1191294827" id="0">
+  <data key="d8">686657381</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">59.16112787644146</data>
+</edge>
+<edge source="4231387111" target="4398506629" id="0">
+  <data key="d8">423553702</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">137.0501885765363</data>
+  <data key="d13">LINESTRING (77.2184091 28.6283893, 77.2190857 28.6283535, 77.2191234 28.6289902)</data>
+</edge>
+<edge source="4398506629" target="2327524055" id="0">
+  <data key="d8">223906999</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">29.374575711586893</data>
+</edge>
+<edge source="4398506629" target="1191294743" id="0">
+  <data key="d8">223906999</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">137.46718371457325</data>
+  <data key="d13">LINESTRING (77.2191234 28.6289902, 77.2185187 28.6289842, 77.2180543 28.6290069, 77.2177243 28.6290735)</data>
+</edge>
+<edge source="4398506629" target="4231387111" id="0">
+  <data key="d8">423553702</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">137.0501885765363</data>
+  <data key="d13">LINESTRING (77.2191234 28.6289902, 77.2190857 28.6283535, 77.2184091 28.6283893)</data>
+</edge>
+<edge source="4398510560" target="2431986255" id="0">
+  <data key="d8">235103610</data>
+  <data key="d9">residential</data>
+  <data key="d14">Janpath Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">35.980932024061694</data>
+  <data key="d13">LINESTRING (77.2171881 28.6271708, 77.217497 28.6271785, 77.2175566 28.627177)</data>
+</edge>
+<edge source="5434483896" target="9794183554" id="0">
+  <data key="d8">579151950</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">7.724467325792125</data>
+</edge>
+<edge source="5434483896" target="10264334424" id="0">
+  <data key="d8">996679779</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">36.079556529800826</data>
+</edge>
+<edge source="5434484027" target="5432771962" id="0">
+  <data key="d8">563791813</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">49.309503750000694</data>
+  <data key="d13">LINESTRING (77.2196953 28.6262918, 77.2196276 28.6262698, 77.2195634 28.6262409, 77.2195035 28.6262055, 77.2194489 28.6261641, 77.2194003 28.6261172, 77.2193584 28.6260657, 77.2193238 28.6260101)</data>
+</edge>
+<edge source="5434484027" target="5681450599" id="0">
+  <data key="d8">563975284</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">34.75582774751151</data>
+  <data key="d13">LINESTRING (77.2196953 28.6262918, 77.219467 28.6263012, 77.2193396 28.6263065)</data>
+</edge>
+<edge source="5434484031" target="5434484044" id="0">
+  <data key="d8">995793692</data>
+  <data key="d9">secondary</data>
+  <data key="d15">3</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">15.104666326094462</data>
+</edge>
+<edge source="5434484032" target="9195108424" id="0">
+  <data key="d8">24583586</data>
+  <data key="d9">residential</data>
+  <data key="d14">Atul Grove Road</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">11.97606289889048</data>
+</edge>
+<edge source="5434484032" target="267251576" id="0">
+  <data key="d8">24583586</data>
+  <data key="d9">residential</data>
+  <data key="d14">Atul Grove Road</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">14.533197442710682</data>
+</edge>
+<edge source="5434484032" target="5434484033" id="0">
+  <data key="d8">995793692</data>
+  <data key="d9">secondary</data>
+  <data key="d15">3</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">83.06830638754913</data>
+</edge>
+<edge source="5434484033" target="5434484027" id="0">
+  <data key="d8">995793692</data>
+  <data key="d9">secondary</data>
+  <data key="d15">3</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">106.23147703565033</data>
+  <data key="d13">LINESTRING (77.2207815 28.6262311, 77.2206641 28.6262372, 77.2204702 28.6262472, 77.2202908 28.6262575, 77.2197391 28.6262893, 77.2196953 28.6262918)</data>
+</edge>
+<edge source="5434484041" target="267250981" id="0">
+  <data key="d8">712992070</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Janpath</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">14.45240802763845</data>
+</edge>
+<edge source="5434484041" target="5792664580" id="0">
+  <data key="d8">563974730</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">31.796994780335506</data>
+  <data key="d13">LINESTRING (77.2192455 28.6263138, 77.2191257 28.6263181, 77.2191226 28.6263183, 77.21892 28.6263256)</data>
+</edge>
+<edge source="5434484044" target="5434484032" id="0">
+  <data key="d8">995793692</data>
+  <data key="d9">secondary</data>
+  <data key="d15">3</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">58.47369095361378</data>
+  <data key="d13">LINESTRING (77.2222295 28.6262041, 77.2218758 28.6261831, 77.2216316 28.6261952)</data>
+</edge>
+<edge source="5434484049" target="1309626444" id="0">
+  <data key="d8">579781481</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Kasturba Gandhi Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">10.847900741412692</data>
+</edge>
+<edge source="5434484049" target="5434484031" id="0">
+  <data key="d8">563974733</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">95.83271389270385</data>
+  <data key="d13">LINESTRING (77.2233409 28.6263783, 77.2232344 28.6263382, 77.2230983 28.6263002, 77.2229167 28.6262589, 77.2227919 28.6262448, 77.2225564 28.6262226, 77.2223841 28.6262102)</data>
+</edge>
+<edge source="5434484052" target="6758692739" id="0">
+  <data key="d8">563679836</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Kasturba Gandhi Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">38.801668989542954</data>
+</edge>
+<edge source="5434484052" target="5434484049" id="0">
+  <data key="d8">563974733</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">7.98809624573114</data>
+</edge>
+<edge source="5681296953" target="5681321307" id="0">
+  <data key="d8">596346055</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Vivekanand Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">143.85487682159024</data>
+  <data key="d13">LINESTRING (77.221439 28.6352759, 77.221488 28.6353413, 77.2215743 28.6354598, 77.2222342 28.6363652)</data>
+</edge>
+<edge source="5681296953" target="5681296954" id="0">
+  <data key="d8">596349216</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">12.464411501448481</data>
+  <data key="d13">LINESTRING (77.221439 28.6352759, 77.221495 28.6352447, 77.2215437 28.6352119)</data>
+</edge>
+<edge source="5681296954" target="9880451646" id="0">
+  <data key="d8">572511732</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">5.029305714696253</data>
+</edge>
+<edge source="5681321306" target="5681321307" id="0">
+  <data key="d8">596350935</data>
+  <data key="d9">secondary</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">11.71735925868865</data>
+</edge>
+<edge source="5681321306" target="5681296954" id="0">
+  <data key="d8">28103794</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Vivekanand Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">143.9277536998434</data>
+  <data key="d13">LINESTRING (77.2223329 28.6363052, 77.2216843 28.6353997, 77.2215968 28.6352776, 77.2215437 28.6352119)</data>
+</edge>
+<edge source="5681321307" target="5681321306" id="0">
+  <data key="d8">596350935</data>
+  <data key="d9">secondary</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">11.71735925868865</data>
+</edge>
+<edge source="5681450581" target="249783293" id="0">
+  <data key="d8">23133709</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">27.37886962290493</data>
+</edge>
+<edge source="5681450581" target="5681450601" id="0">
+  <data key="d8">[596373346, 596373332]</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Janpath</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">108.22810807244693</data>
+  <data key="d15">2</data>
+  <data key="d13">LINESTRING (77.2197655 28.629882, 77.2197184 28.6298631, 77.2196757 28.6298375, 77.2196386 28.6298058, 77.2196083 28.629769, 77.2195855 28.6297281, 77.2195711 28.6296845, 77.2195651 28.6295911, 77.2195265 28.6289849)</data>
+</edge>
+<edge source="5681450599" target="5434484041" id="0">
+  <data key="d8">563975284</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">9.22023692633624</data>
+</edge>
+<edge source="5681450599" target="5432771962" id="0">
+  <data key="d8">614071995</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Janpath</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">33.005939917596336</data>
+  <data key="d13">LINESTRING (77.2193396 28.6263065, 77.2193304 28.6262125, 77.2193238 28.6260101)</data>
+</edge>
+<edge source="5681450601" target="2592537501" id="0">
+  <data key="d8">253307767</data>
+  <data key="d9">residential</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">217.58950000079645</data>
+  <data key="d13">LINESTRING (77.2195265 28.6289849, 77.2196387 28.628983, 77.2197649 28.6289808, 77.2200133 28.6289765, 77.2202722 28.6289646, 77.2205492 28.6289518, 77.2205559 28.6289521, 77.2206897 28.6289586, 77.2208378 28.6289946, 77.2209547 28.629037, 77.2211879 28.6291214, 77.221429 28.6292263, 77.2216652 28.6293291)</data>
+</edge>
+<edge source="5681450601" target="5809063022" id="0">
+  <data key="d8">596373332</data>
+  <data key="d9">secondary</data>
+  <data key="d15">2</data>
+  <data key="d14">Janpath</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">259.55933090388373</data>
+  <data key="d13">LINESTRING (77.2195265 28.6289849, 77.2195038 28.6286294, 77.219487 28.6283662, 77.2194854 28.6283415, 77.2194826 28.6282868, 77.2194767 28.628173, 77.2194221 28.627349, 77.2194214 28.6273383, 77.2194099 28.6271569, 77.2194064 28.6271021, 77.2193689 28.6266548)</data>
+</edge>
+<edge source="5681450605" target="5681450599" id="0">
+  <data key="d8">596373342</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Janpath</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">14.460537526135587</data>
+</edge>
+<edge source="5681450605" target="5809063021" id="0">
+  <data key="d8">563791811</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">24.357991077818</data>
+  <data key="d13">LINESTRING (77.2193638 28.6264348, 77.2194795 28.6264311, 77.2196132 28.6264269)</data>
+</edge>
+<edge source="5682466818" target="5434483896" id="0">
+  <data key="d8">563974730</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">42.32681050635226</data>
+  <data key="d13">LINESTRING (77.2157201 28.6266857, 77.2156713 28.6267223, 77.2153759 28.6269171)</data>
+</edge>
+<edge source="5682466818" target="10264334424" id="0">
+  <data key="d8">1122226240</data>
+  <data key="d9">secondary</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">56.74387063695868</data>
+  <data key="d13">LINESTRING (77.2157201 28.6266857, 77.2155403 28.626739, 77.2153886 28.6267337, 77.2151697 28.6266478)</data>
+</edge>
+<edge source="5682466820" target="5682467523" id="0">
+  <data key="d8">24583495</data>
+  <data key="d9">residential</data>
+  <data key="d14">Jantar Mantar Road</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">8.83063502551774</data>
+</edge>
+<edge source="5682466820" target="2431986249" id="0">
+  <data key="d8">74851428</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">170.1815993370284</data>
+  <data key="d13">LINESTRING (77.2159548 28.6261796, 77.2160312 28.6261089, 77.2162119 28.6260333, 77.2164188 28.6259806, 77.2166035 28.6259539, 77.2168399 28.6259606, 77.2170628 28.6260002, 77.2172962 28.6260795, 77.2175777 28.6262047)</data>
+</edge>
+<edge source="5682467523" target="5682466820" id="0">
+  <data key="d8">24583495</data>
+  <data key="d9">residential</data>
+  <data key="d14">Jantar Mantar Road</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">8.83063502551774</data>
+</edge>
+<edge source="5682467523" target="5682466818" id="0">
+  <data key="d8">563974730</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">64.16541561449561</data>
+  <data key="d13">LINESTRING (77.2158836 28.6261306, 77.2158602 28.6261922, 77.2158059 28.6264459, 77.2157843 28.6265581, 77.215759 28.6266257, 77.2157201 28.6266857)</data>
+</edge>
+<edge source="5792664578" target="2431986256" id="0">
+  <data key="d8">563679821</data>
+  <data key="d9">secondary</data>
+  <data key="d15">2</data>
+  <data key="d14">Janpath</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">62.236769191645756</data>
+  <data key="d13">LINESTRING (77.219272 28.6265854, 77.219285 28.6269079, 77.2193008 28.6271445)</data>
+</edge>
+<edge source="5792664579" target="267250981" id="0">
+  <data key="d8">74851428</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">21.579985021752798</data>
+</edge>
+<edge source="5792664579" target="5792664578" id="0">
+  <data key="d8">611866605</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">28.087759245480374</data>
+</edge>
+<edge source="5792664581" target="5434484041" id="0">
+  <data key="d8">24577096</data>
+  <data key="d9">secondary</data>
+  <data key="d15">2</data>
+  <data key="d14">Janpath</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">24.83685929786599</data>
+  <data key="d13">LINESTRING (77.219231 28.6260908, 77.2192393 28.6262191, 77.2192455 28.6263138)</data>
+</edge>
+<edge source="5792664581" target="5792664580" id="0">
+  <data key="d8">611866606</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">40.044520472264</data>
+  <data key="d13">LINESTRING (77.219231 28.6260908, 77.219107 28.6261803, 77.21892 28.6263256)</data>
+</edge>
+<edge source="5799521439" target="5799521565" id="0">
+  <data key="d8">24583488</data>
+  <data key="d9">residential</data>
+  <data key="d14">Hanuman Road</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">142.94941167085017</data>
+  <data key="d13">LINESTRING (77.2148357 28.6291694, 77.2158302 28.6296127, 77.2161416 28.6297515)</data>
+</edge>
+<edge source="5799521439" target="5799521445" id="0">
+  <data key="d8">612734121</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">72.12792806737735</data>
+  <data key="d13">LINESTRING (77.2148357 28.6291694, 77.2146565 28.629467, 77.2144904 28.6297429)</data>
+</edge>
+<edge source="5799521445" target="6436650499" id="0">
+  <data key="d8">612734121</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">67.08245331803609</data>
+  <data key="d13">LINESTRING (77.2144904 28.6297429, 77.2144827 28.6297556, 77.2142771 28.6300841, 77.2141649 28.6302742)</data>
+</edge>
+<edge source="5799521445" target="5799521439" id="0">
+  <data key="d8">612734121</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">72.12792806737735</data>
+  <data key="d13">LINESTRING (77.2144904 28.6297429, 77.2146565 28.629467, 77.2148357 28.6291694)</data>
+</edge>
+<edge source="5799521452" target="5799521554" id="0">
+  <data key="d8">612734124</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">36.82595849892866</data>
+</edge>
+<edge source="5799521452" target="9857860386" id="0">
+  <data key="d8">[612734123, 1074774612]</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">[False, True]</data>
+  <data key="d12">156.1869280664546</data>
+  <data key="d13">LINESTRING (77.2170525 28.6299309, 77.2167228 28.6302235, 77.2164988 28.6304222, 77.2164754 28.630457, 77.2164683 28.6304981, 77.2164907 28.6305382, 77.2166062 28.6306315, 77.2166253 28.6306546, 77.216632 28.6306841, 77.2166259 28.6307098, 77.2165958 28.6307622, 77.2165767 28.6307832, 77.216558 28.6307899, 77.2165347 28.6307876, 77.2164285 28.630741, 77.216394 28.6307309, 77.216371 28.6307355, 77.2163531 28.6307504, 77.2163205 28.6308053)</data>
+</edge>
+<edge source="5799521452" target="5799521553" id="0">
+  <data key="d8">612734124</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">34.323082599062325</data>
+  <data key="d13">LINESTRING (77.2170525 28.6299309, 77.2172108 28.6301408, 77.2172466 28.6301883)</data>
+</edge>
+<edge source="5799521553" target="5799521452" id="0">
+  <data key="d8">612734124</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">34.323082599062325</data>
+  <data key="d13">LINESTRING (77.2172466 28.6301883, 77.2172108 28.6301408, 77.2170525 28.6299309)</data>
+</edge>
+<edge source="5799521554" target="5799521452" id="0">
+  <data key="d8">612734124</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">36.82595849892866</data>
+</edge>
+<edge source="5799521554" target="5799521565" id="0">
+  <data key="d8">24583488</data>
+  <data key="d9">residential</data>
+  <data key="d14">Hanuman Road</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">79.5193952786937</data>
+  <data key="d13">LINESTRING (77.2168101 28.6296771, 77.2165965 28.6298785, 77.216565 28.6298935, 77.2165342 28.6299017, 77.216502 28.6299035, 77.2164735 28.629899, 77.216186 28.6297712, 77.2161416 28.6297515)</data>
+</edge>
+<edge source="5799521554" target="4083435383" id="0">
+  <data key="d8">24583488</data>
+  <data key="d9">residential</data>
+  <data key="d14">Hanuman Road</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">45.84203406574265</data>
+  <data key="d13">LINESTRING (77.2168101 28.6296771, 77.2169268 28.6295622, 77.2171227 28.6293694)</data>
+</edge>
+<edge source="5799521565" target="5799521439" id="0">
+  <data key="d8">24583488</data>
+  <data key="d9">residential</data>
+  <data key="d14">Hanuman Road</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">142.94941167085017</data>
+  <data key="d13">LINESTRING (77.2161416 28.6297515, 77.2158302 28.6296127, 77.2148357 28.6291694)</data>
+</edge>
+<edge source="5799521565" target="5799521554" id="0">
+  <data key="d8">24583488</data>
+  <data key="d9">residential</data>
+  <data key="d14">Hanuman Road</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">79.5193952786937</data>
+  <data key="d13">LINESTRING (77.2161416 28.6297515, 77.216186 28.6297712, 77.2164735 28.629899, 77.216502 28.6299035, 77.2165342 28.6299017, 77.216565 28.6298935, 77.2165965 28.6298785, 77.2168101 28.6296771)</data>
+</edge>
+<edge source="5799663725" target="4083435383" id="0">
+  <data key="d8">997761546</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">71.9650884751501</data>
+</edge>
+<edge source="5799663728" target="5799663725" id="0">
+  <data key="d8">997761544</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">58.857652806756064</data>
+</edge>
+<edge source="5799663728" target="5799663725" id="1">
+  <data key="d8">612750030</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">65.60042484772212</data>
+  <data key="d13">LINESTRING (77.216396 28.6283808, 77.2163799 28.6284897, 77.2163799 28.628503, 77.216384 28.6285162, 77.2163947 28.6285312, 77.216569 28.6287764, 77.2165845 28.6287911, 77.2166039 28.6287981, 77.2167229 28.6288256)</data>
+</edge>
+<edge source="5799663732" target="6436408280" id="0">
+  <data key="d8">24577478</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">166.7533908159784</data>
+  <data key="d13">LINESTRING (77.2165741 28.6283967, 77.2164816 28.6282755, 77.2158122 28.6274574, 77.2155796 28.6271774)</data>
+</edge>
+<edge source="5799663735" target="5799663732" id="0">
+  <data key="d8">1278775920</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">64.2186057366341</data>
+</edge>
+<edge source="5799663735" target="5799663732" id="1">
+  <data key="d8">612750032</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">70.31474952764134</data>
+  <data key="d13">LINESTRING (77.2169405 28.6288764, 77.2169185 28.6287318, 77.2166664 28.6283922, 77.2165741 28.6283967)</data>
+</edge>
+<edge source="5809063021" target="267251576" id="0">
+  <data key="d8">563791811</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">197.32698866939603</data>
+  <data key="d13">LINESTRING (77.2196132 28.6264269, 77.2197735 28.6264218, 77.2204718 28.6263822, 77.2205942 28.6263763, 77.2210576 28.6263538, 77.2213565 28.6263393, 77.2216316 28.6263259)</data>
+</edge>
+<edge source="5809063022" target="5681450605" id="0">
+  <data key="d8">[596373332, 614071999]</data>
+  <data key="d9">secondary</data>
+  <data key="d15">2</data>
+  <data key="d14">Janpath</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">24.47092573020271</data>
+  <data key="d13">LINESTRING (77.2193689 28.6266548, 77.2193691 28.6265855, 77.2193638 28.6264348)</data>
+</edge>
+<edge source="5809063022" target="5809063021" id="0">
+  <data key="d8">614072001</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">34.79999398995989</data>
+  <data key="d13">LINESTRING (77.2193689 28.6266548, 77.2194495 28.6265762, 77.2195313 28.6265015, 77.2196132 28.6264269)</data>
+</edge>
+<edge source="6436408280" target="267250994" id="0">
+  <data key="d8">24577478</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">24.409177370978796</data>
+</edge>
+<edge source="6436408280" target="267250993" id="0">
+  <data key="d8">686664590</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">40.55933084228026</data>
+  <data key="d13">LINESTRING (77.2155796 28.6271774, 77.2155686 28.6270942, 77.215584 28.6270071, 77.2156249 28.6269477, 77.2156745 28.6268753, 77.2156923 28.6268396)</data>
+</edge>
+<edge source="6436532340" target="6437715964" id="0">
+  <data key="d8">563791811</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">85.51996823946845</data>
+  <data key="d13">LINESTRING (77.2221119 28.626326, 77.2222177 28.6263321, 77.2225473 28.6263235, 77.2227555 28.6263208, 77.2229084 28.6263267, 77.222984 28.6263473)</data>
+</edge>
+<edge source="6436532340" target="10254979373" id="0">
+  <data key="d8">686673952</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">260.0587647346218</data>
+  <data key="d13">LINESTRING (77.2221119 28.626326, 77.2219365 28.6266234, 77.2218381 28.6267903, 77.2216382 28.6270981, 77.221629 28.6271122, 77.2215299 28.6272441, 77.2213776 28.6273954, 77.2210572 28.6276036, 77.2208772 28.6277566, 77.2208051 28.6280585, 77.2205815 28.6281249)</data>
+</edge>
+<edge source="6436650499" target="5799521445" id="0">
+  <data key="d8">612734121</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">67.08245331803607</data>
+  <data key="d13">LINESTRING (77.2141649 28.6302742, 77.2142771 28.6300841, 77.2144827 28.6297556, 77.2144904 28.6297429)</data>
+</edge>
+<edge source="6436657802" target="9859502222" id="0">
+  <data key="d8">686682898</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">164.65670432255402</data>
+</edge>
+<edge source="6436657802" target="395135093" id="0">
+  <data key="d8">44263461</data>
+  <data key="d9">residential</data>
+  <data key="d14">Jain Mandir Marg</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">260.0492349148162</data>
+  <data key="d13">LINESTRING (77.2158251 28.6317918, 77.2157151 28.6319419, 77.2156626 28.6319895, 77.2156013 28.6320191, 77.2154844 28.6320315, 77.2146322 28.63207, 77.2141041 28.6321031, 77.2136103 28.6321402, 77.2132927 28.6321715)</data>
+</edge>
+<edge source="6436657802" target="395135103" id="0">
+  <data key="d8">[615556516, 44263461]</data>
+  <data key="d9">residential</data>
+  <data key="d14">Jain Mandir Marg</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">64.69998809154795</data>
+  <data key="d13">LINESTRING (77.2158251 28.6317918, 77.2159983 28.6315006, 77.2161249 28.6312729)</data>
+</edge>
+<edge source="6437715963" target="2592537501" id="0">
+  <data key="d8">579781481</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Kasturba Gandhi Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">328.16850559274934</data>
+  <data key="d13">LINESTRING (77.2231705 28.6266901, 77.2230097 28.6269721, 77.2229649 28.6270506, 77.2229379 28.6270979, 77.2227747 28.627384, 77.2227547 28.6274191, 77.2225438 28.6277888, 77.2225051 28.6278566, 77.2223311 28.6281616, 77.2221173 28.6285365, 77.2220725 28.628615, 77.2218713 28.6289678, 77.2216652 28.6293291)</data>
+</edge>
+<edge source="6437715964" target="1309626444" id="0">
+  <data key="d8">563791811</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">33.44350499654722</data>
+  <data key="d13">LINESTRING (77.222984 28.6263473, 77.2230516 28.6263658, 77.2231364 28.6264032, 77.2232972 28.626468)</data>
+</edge>
+<edge source="6437715964" target="6437715963" id="0">
+  <data key="d8">686781072</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">42.943676303889546</data>
+  <data key="d13">LINESTRING (77.222984 28.6263473, 77.223056 28.626425, 77.2230902 28.6264686, 77.2231143 28.6265121, 77.2231445 28.6266016, 77.2231705 28.6266901)</data>
+</edge>
+<edge source="6439164655" target="6439164658" id="0">
+  <data key="d8">80926759</data>
+  <data key="d9">secondary</data>
+  <data key="d15">3</data>
+  <data key="d14">Panchkuian Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">58.656337857343544</data>
+  <data key="d13">LINESTRING (77.2137395 28.6363948, 77.2138972 28.6363046, 77.2142417 28.636105)</data>
+</edge>
+<edge source="6439164655" target="6439164662" id="0">
+  <data key="d8">686925959</data>
+  <data key="d9">residential</data>
+  <data key="d14">Basant Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">36.258310921242966</data>
+  <data key="d13">LINESTRING (77.2137395 28.6363948, 77.2137849 28.6364016, 77.2138453 28.6364146, 77.2140997 28.6364741)</data>
+</edge>
+<edge source="6439164658" target="345265121" id="0">
+  <data key="d8">80926759</data>
+  <data key="d9">secondary</data>
+  <data key="d15">3</data>
+  <data key="d14">Panchkuian Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">338.0109543154769</data>
+  <data key="d13">LINESTRING (77.2142417 28.636105, 77.2170018 28.6345059, 77.2170779 28.6344607, 77.2171312 28.6344291)</data>
+</edge>
+<edge source="6439164662" target="6439164658" id="0">
+  <data key="d8">686925958</data>
+  <data key="d9">residential</data>
+  <data key="d14">Basant Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">43.345709976526514</data>
+  <data key="d13">LINESTRING (77.2140997 28.6364741, 77.2141121 28.6364311, 77.2141644 28.6362875, 77.2142087 28.6361827, 77.2142417 28.636105)</data>
+</edge>
+<edge source="6637358436" target="3504623690" id="0">
+  <data key="d8">563679820</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">77.12248663904387</data>
+  <data key="d13">LINESTRING (77.2236782 28.6266137, 77.2237861 28.6266559, 77.2238231 28.6266704, 77.2242587 28.6268975, 77.2243682 28.6269502)</data>
+</edge>
+<edge source="6637358439" target="267250978" id="0">
+  <data key="d8">570616026</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Kasturba Gandhi Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">25.918952585780946</data>
+</edge>
+<edge source="6637358439" target="6637358436" id="0">
+  <data key="d8">706373643</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">43.110808098743874</data>
+  <data key="d13">LINESTRING (77.2232575 28.6267042, 77.2233698 28.6266445, 77.2234851 28.6266316, 77.2236782 28.6266137)</data>
+</edge>
+<edge source="6646336237" target="249783302" id="0">
+  <data key="d8">24577488</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">3</data>
+  <data key="d14">Radial Road 2</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">37.02342817284598</data>
+</edge>
+<edge source="6646336237" target="1762977534" id="0">
+  <data key="d8">707245217</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">43.87413335883402</data>
+  <data key="d13">LINESTRING (77.2170792 28.6315818, 77.2170049 28.6315838, 77.2168909 28.631585, 77.2168024 28.6315909, 77.2167528 28.6316062, 77.2166601 28.6316729)</data>
+</edge>
+<edge source="6649221978" target="6649221979" id="0">
+  <data key="d8">707566695</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">106.98454291932684</data>
+</edge>
+<edge source="6649221978" target="6649221980" id="0">
+  <data key="d8">707566696</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">169.27673158089573</data>
+  <data key="d13">LINESTRING (77.2248053 28.6285861, 77.2243903 28.6288236, 77.2243117 28.6288686, 77.2239782 28.6290464, 77.2236434 28.6292249, 77.2235388 28.6292508, 77.2234288 28.629239, 77.2233121 28.6291654)</data>
+</edge>
+<edge source="6649221979" target="3504623688" id="0">
+  <data key="d8">707566694</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">22.080826442658434</data>
+</edge>
+<edge source="6649221979" target="6649221978" id="0">
+  <data key="d8">707566695</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">106.98454291932684</data>
+</edge>
+<edge source="6649221979" target="6649221980" id="0">
+  <data key="d8">707566695</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">149.84184420500515</data>
+</edge>
+<edge source="6649221980" target="6649221979" id="0">
+  <data key="d8">707566695</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">149.84184420500515</data>
+</edge>
+<edge source="6649221980" target="1762944960" id="0">
+  <data key="d8">707566696</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">100.21182608673742</data>
+  <data key="d13">LINESTRING (77.2233121 28.6291654, 77.2231658 28.6293677, 77.2230476 28.6294858, 77.2228908 28.6296146, 77.2226204 28.6298231)</data>
+</edge>
+<edge source="6649221980" target="6649221978" id="0">
+  <data key="d8">707566696</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">169.27673158089573</data>
+  <data key="d13">LINESTRING (77.2233121 28.6291654, 77.2234288 28.629239, 77.2235388 28.6292508, 77.2236434 28.6292249, 77.2239782 28.6290464, 77.2243117 28.6288686, 77.2243903 28.6288236, 77.2248053 28.6285861)</data>
+</edge>
+<edge source="6758692740" target="5434484052" id="0">
+  <data key="d8">563974735</data>
+  <data key="d9">secondary</data>
+  <data key="d15">2</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">43.548782100932854</data>
+</edge>
+<edge source="6758692740" target="6758692739" id="0">
+  <data key="d8">720112425</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">60.70777060929292</data>
+  <data key="d13">LINESTRING (77.2238129 28.6265847, 77.2237104 28.6264762, 77.2236742 28.6264209, 77.2236434 28.626355, 77.2236139 28.6262867, 77.2235991 28.6262196, 77.2235974 28.626091)</data>
+</edge>
+<edge source="9195108424" target="5434484032" id="0">
+  <data key="d8">24583586</data>
+  <data key="d9">residential</data>
+  <data key="d14">Atul Grove Road</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">11.97606289889048</data>
+</edge>
+<edge source="9212682340" target="5799663728" id="0">
+  <data key="d8">997761545</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">146.43442252433627</data>
+  <data key="d13">LINESTRING (77.2155756 28.6272785, 77.215768 28.6275177, 77.216396 28.6283808)</data>
+</edge>
+<edge source="9234696669" target="1762944963" id="0">
+  <data key="d8">80499778</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Barakhamba Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">93.34745774557314</data>
+  <data key="d13">LINESTRING (77.2240555 28.6302257, 77.2238678 28.6303372, 77.2237855 28.6303821, 77.2232549 28.6306849)</data>
+</edge>
+<edge source="9234696669" target="12044622897" id="0">
+  <data key="d8">1300354437</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">10.88965261433674</data>
+  <data key="d13">LINESTRING (77.2240555 28.6302257, 77.2240257 28.6301828, 77.2239972 28.6301422)</data>
+</edge>
+<edge source="9234696672" target="1762944963" id="0">
+  <data key="d8">164675827</data>
+  <data key="d9">residential</data>
+  <data key="d14">कनॉट लेन</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">9.775874245886946</data>
+  <data key="d13">LINESTRING (77.2232032 28.6306096, 77.2232248 28.6306411, 77.2232549 28.6306849)</data>
+</edge>
+<edge source="9234696672" target="1762944960" id="0">
+  <data key="d8">164675827</data>
+  <data key="d9">residential</data>
+  <data key="d14">कनॉट लेन</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">105.45195494953222</data>
+  <data key="d13">LINESTRING (77.2232032 28.6306096, 77.2231208 28.6304823, 77.2228522 28.6300671, 77.2227876 28.6299523, 77.2227138 28.6298827, 77.2226204 28.6298231)</data>
+</edge>
+<edge source="9579967710" target="267247468" id="0">
+  <data key="d8">24582917</data>
+  <data key="d9">unclassified</data>
+  <data key="d14">Connaught Lane</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">16.608010184743172</data>
+</edge>
+<edge source="9579967710" target="9579967713" id="0">
+  <data key="d8">1040444893</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">211.94253791594633</data>
+  <data key="d13">LINESTRING (77.2247762 28.63335, 77.2249316 28.6336425, 77.2249348 28.633692, 77.2248976 28.6337261, 77.2237733 28.6342482, 77.2237326 28.6342514, 77.223589 28.6342414, 77.2233681 28.6341666)</data>
+</edge>
+<edge source="9579967713" target="9579967710" id="0">
+  <data key="d8">1040444893</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">211.94253791594636</data>
+  <data key="d13">LINESTRING (77.2233681 28.6341666, 77.223589 28.6342414, 77.2237326 28.6342514, 77.2237733 28.6342482, 77.2248976 28.6337261, 77.2249348 28.633692, 77.2249316 28.6336425, 77.2247762 28.63335)</data>
+</edge>
+<edge source="9794183553" target="267250995" id="0">
+  <data key="d8">1066619121</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">4</data>
+  <data key="d14">Jai Singh Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">37.12444730872966</data>
+  <data key="d13">LINESTRING (77.2147019 28.627188, 77.2147629 28.6272169, 77.2148419 28.6272315, 77.2149222 28.6272319, 77.2150032 28.6272154, 77.215061 28.6271859)</data>
+</edge>
+<edge source="9794183554" target="4083435341" id="0">
+  <data key="d8">24583327</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">10.030011754459709</data>
+</edge>
+<edge source="9794183554" target="5434483896" id="0">
+  <data key="d8">579151950</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Tolstoy Marg</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">7.724467325792125</data>
+</edge>
+<edge source="9794183554" target="10264334423" id="0">
+  <data key="d8">1066619122</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">4</data>
+  <data key="d14">Jai Singh Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">28.559891364363786</data>
+  <data key="d13">LINESTRING (77.2153095 28.6269549, 77.2152588 28.6269765, 77.2151849 28.6270043, 77.2150514 28.6270749)</data>
+</edge>
+<edge source="9857860386" target="9857860395" id="0">
+  <data key="d8">1074774612</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">41.58757084730546</data>
+</edge>
+<edge source="9857860386" target="10230413737" id="0">
+  <data key="d8">1074774611</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">217.91905037066002</data>
+  <data key="d13">LINESTRING (77.2163205 28.6308053, 77.2162691 28.6307693, 77.2162427 28.6307398, 77.2162254 28.6306952, 77.2162213 28.6306569, 77.2162284 28.6305709, 77.2162183 28.6305364, 77.2161969 28.630515, 77.2155615 28.6301912, 77.2158287 28.6297166, 77.216094 28.62985, 77.2160016 28.6300174)</data>
+</edge>
+<edge source="9857860386" target="5799521452" id="0">
+  <data key="d8">[612734123, 1074774612]</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">[False, True]</data>
+  <data key="d12">156.1869280664546</data>
+  <data key="d13">LINESTRING (77.2163205 28.6308053, 77.2163531 28.6307504, 77.216371 28.6307355, 77.216394 28.6307309, 77.2164285 28.630741, 77.2165347 28.6307876, 77.216558 28.6307899, 77.2165767 28.6307832, 77.2165958 28.6307622, 77.2166259 28.6307098, 77.216632 28.6306841, 77.2166253 28.6306546, 77.2166062 28.6306315, 77.2164907 28.6305382, 77.2164683 28.6304981, 77.2164754 28.630457, 77.2164988 28.6304222, 77.2167228 28.6302235, 77.2170525 28.6299309)</data>
+</edge>
+<edge source="9857860395" target="9857860386" id="0">
+  <data key="d8">1074774612</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">41.58757084730546</data>
+</edge>
+<edge source="9857860395" target="6436650499" id="0">
+  <data key="d8">24583332</data>
+  <data key="d9">secondary</data>
+  <data key="d15">3</data>
+  <data key="d14">Baba Kharak Singh Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">213.96841585752003</data>
+  <data key="d13">LINESTRING (77.2161243 28.6311373, 77.2161177 28.6311344, 77.2151812 28.6307244, 77.2148855 28.630596, 77.2141649 28.6302742)</data>
+</edge>
+<edge source="9857860410" target="10262384320" id="0">
+  <data key="d8">686682898</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">76.16021667273523</data>
+  <data key="d13">LINESTRING (77.2133095 28.630675, 77.2137867 28.6308869, 77.2140058 28.6309842)</data>
+</edge>
+<edge source="9857860410" target="395135093" id="0">
+  <data key="d8">1074774614</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">180.04152441261252</data>
+  <data key="d13">LINESTRING (77.2133095 28.630675, 77.2136161 28.6312962, 77.2136439 28.631386, 77.213636 28.6314809, 77.2136004 28.6315753, 77.2132927 28.6321715)</data>
+</edge>
+<edge source="9859502221" target="9859502222" id="0">
+  <data key="d8">1074987321</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">61.140393112363824</data>
+</edge>
+<edge source="9859502222" target="6436657802" id="0">
+  <data key="d8">686682898</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">164.65670432255402</data>
+</edge>
+<edge source="9859502222" target="10262384320" id="0">
+  <data key="d8">686682898</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">34.32056677956077</data>
+</edge>
+<edge source="9859502222" target="9859502221" id="0">
+  <data key="d8">1074987321</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">61.140393112363824</data>
+</edge>
+<edge source="9880451646" target="249783257" id="0">
+  <data key="d8">572511732</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">144.50941508440732</data>
+  <data key="d13">LINESTRING (77.2215809 28.6351806, 77.2218034 28.6349934, 77.2220831 28.6347379, 77.2221191 28.634705, 77.2223826 28.6344225, 77.2224071 28.6343881, 77.2224848 28.634279, 77.2225404 28.6341977)</data>
+</edge>
+<edge source="10230413737" target="9857860386" id="0">
+  <data key="d8">1074774611</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">217.91905037066</data>
+  <data key="d13">LINESTRING (77.2160016 28.6300174, 77.216094 28.62985, 77.2158287 28.6297166, 77.2155615 28.6301912, 77.2161969 28.630515, 77.2162183 28.6305364, 77.2162284 28.6305709, 77.2162213 28.6306569, 77.2162254 28.6306952, 77.2162427 28.6307398, 77.2162691 28.6307693, 77.2163205 28.6308053)</data>
+</edge>
+<edge source="10246421063" target="10246421064" id="0">
+  <data key="d8">1120299304</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">40.5381532361782</data>
+</edge>
+<edge source="10246421063" target="249782331" id="0">
+  <data key="d8">23133600</data>
+  <data key="d9">residential</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">126.92169479879992</data>
+  <data key="d13">LINESTRING (77.2207434 28.6308967, 77.2207659 28.6309054, 77.2209517 28.6309949, 77.2211278 28.6310984, 77.2212929 28.631205, 77.2214484 28.6313298, 77.221582 28.6314584, 77.2217092 28.631635)</data>
+</edge>
+<edge source="10246421064" target="10246421063" id="0">
+  <data key="d8">1120299304</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">40.5381532361782</data>
+</edge>
+<edge source="10254979373" target="6436532340" id="0">
+  <data key="d8">686673952</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">260.05876473462183</data>
+  <data key="d13">LINESTRING (77.2205815 28.6281249, 77.2208051 28.6280585, 77.2208772 28.6277566, 77.2210572 28.6276036, 77.2213776 28.6273954, 77.2215299 28.6272441, 77.221629 28.6271122, 77.2216382 28.6270981, 77.2218381 28.6267903, 77.2219365 28.6266234, 77.2221119 28.626326)</data>
+</edge>
+<edge source="10262384320" target="9859502222" id="0">
+  <data key="d8">686682898</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">34.32056677956077</data>
+</edge>
+<edge source="10262384320" target="10262384321" id="0">
+  <data key="d8">1122038571</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">35.37974472033254</data>
+</edge>
+<edge source="10262384320" target="9857860410" id="0">
+  <data key="d8">686682898</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">76.16021667273523</data>
+  <data key="d13">LINESTRING (77.2140058 28.6309842, 77.2137867 28.6308869, 77.2133095 28.630675)</data>
+</edge>
+<edge source="10262384321" target="10262384320" id="0">
+  <data key="d8">1122038571</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">35.37974472033254</data>
+</edge>
+<edge source="10264334421" target="9794183554" id="0">
+  <data key="d8">24583327</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">37.2568940845858</data>
+</edge>
+<edge source="10264334421" target="10264334423" id="0">
+  <data key="d8">1122226239</data>
+  <data key="d9">tertiary</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">43.672078001436546</data>
+  <data key="d13">LINESTRING (77.2150807 28.6266867, 77.2150943 28.6269095, 77.2150514 28.6270749)</data>
+</edge>
+<edge source="10264334423" target="9794183553" id="0">
+  <data key="d8">1066619122</data>
+  <data key="d9">tertiary</data>
+  <data key="d15">4</data>
+  <data key="d14">Jai Singh Road</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">36.59268516881865</data>
+  <data key="d13">LINESTRING (77.2150514 28.6270749, 77.2149671 28.6271195, 77.2148994 28.6271378, 77.2148397 28.6271519, 77.2147592 28.6271719, 77.2147019 28.627188)</data>
+</edge>
+<edge source="10264334423" target="10264334421" id="0">
+  <data key="d8">1122226239</data>
+  <data key="d9">tertiary</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">43.672078001436546</data>
+  <data key="d13">LINESTRING (77.2150514 28.6270749, 77.2150943 28.6269095, 77.2150807 28.6266867)</data>
+</edge>
+<edge source="11462925576" target="395135103" id="0">
+  <data key="d8">24583330</data>
+  <data key="d9">secondary</data>
+  <data key="d15">2</data>
+  <data key="d14">Baba Kharak Singh Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">21.659735293644584</data>
+</edge>
+<edge source="11462925576" target="11462925584" id="0">
+  <data key="d8">1234918800</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">146.3135506852317</data>
+  <data key="d13">LINESTRING (77.2159299 28.6311799, 77.215848 28.6312951, 77.2153413 28.6310583, 77.2150791 28.6309565, 77.2150413 28.6309897, 77.2149783 28.6309831, 77.2148951 28.6309388, 77.2147993 28.6308835, 77.2146657 28.6308149)</data>
+</edge>
+<edge source="11462925584" target="11462925576" id="0">
+  <data key="d8">1234918800</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">146.31355068523172</data>
+  <data key="d13">LINESTRING (77.2146657 28.6308149, 77.2147993 28.6308835, 77.2148951 28.6309388, 77.2149783 28.6309831, 77.2150413 28.6309897, 77.2150791 28.6309565, 77.2153413 28.6310583, 77.215848 28.6312951, 77.2159299 28.6311799)</data>
+</edge>
+<edge source="12044622897" target="9234696672" id="0">
+  <data key="d8">1000448884</data>
+  <data key="d9">residential</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">93.32020239118073</data>
+  <data key="d13">LINESTRING (77.2239972 28.6301422, 77.2238057 28.6302547, 77.2237473 28.630285, 77.2232032 28.6306096)</data>
+</edge>
+<edge source="12044622897" target="9234696669" id="0">
+  <data key="d8">1300354437</data>
+  <data key="d9">residential</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">10.88965261433674</data>
+  <data key="d13">LINESTRING (77.2239972 28.6301422, 77.2240257 28.6301828, 77.2240555 28.6302257)</data>
+</edge>
+<edge source="12816056486" target="12816056487" id="0">
+  <data key="d8">1384226015</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">10.37078896037122</data>
+</edge>
+<edge source="12816056486" target="4083436490" id="0">
+  <data key="d8">570616029</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">47.82046461741517</data>
+  <data key="d13">LINESTRING (77.2176977 28.6301219, 77.2177049 28.6301337, 77.2177282 28.6301897, 77.2177421 28.6302479, 77.2177465 28.6303074, 77.2177413 28.6303667, 77.2177264 28.6304249, 77.2177023 28.6304805, 77.2176681 28.6305317)</data>
+</edge>
+<edge source="12816056487" target="12816056486" id="0">
+  <data key="d8">1384226015</data>
+  <data key="d9">secondary_link</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">10.37078896037122</data>
+</edge>
+<edge source="12816056487" target="1191294833" id="0">
+  <data key="d8">[1278775921, 570616028]</data>
+  <data key="d9">secondary</data>
+  <data key="d14">Sansad Marg</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">96.31166393252553</data>
+  <data key="d13">LINESTRING (77.2177886 28.6300736, 77.2177778 28.6300619, 77.2177443 28.6300101, 77.2172711 28.6293363)</data>
+</edge>
+<edge source="12836557588" target="12836557589" id="0">
+  <data key="d8">1386548336</data>
+  <data key="d9">unclassified</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">43.373195981806994</data>
+</edge>
+<edge source="12836557588" target="267247460" id="0">
+  <data key="d8">572511732</data>
+  <data key="d9">secondary</data>
+  <data key="d16">roundabout</data>
+  <data key="d15">4</data>
+  <data key="d14">Outer Circle</data>
+  <data key="d10">True</data>
+  <data key="d11">False</data>
+  <data key="d12">126.18259934221742</data>
+  <data key="d13">LINESTRING (77.2229795 28.632977, 77.2229941 28.6328092, 77.222985 28.6325867, 77.2229809 28.6324873, 77.2229265 28.6321686, 77.2228317 28.6318574)</data>
+</edge>
+<edge source="12836557589" target="12836557588" id="0">
+  <data key="d8">1386548336</data>
+  <data key="d9">unclassified</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">43.373195981806994</data>
+</edge>
+<edge source="12836557589" target="267247468" id="0">
+  <data key="d8">24582920</data>
+  <data key="d9">unclassified</data>
+  <data key="d10">False</data>
+  <data key="d11">False</data>
+  <data key="d12">173.3373983292101</data>
+  <data key="d13">LINESTRING (77.2234235 28.6329938, 77.223467 28.6329302, 77.2235536 28.6329002, 77.2244524 28.6328607, 77.2245746 28.6328734, 77.2246547 28.6329302, 77.2249216 28.6332724)</data>
+</edge>
+<edge source="12836557589" target="267247464" id="0">
+  <data key="d8">24582920</data>
+  <data key="d9">unclassified</data>
+  <data key="d10">False</data>
+  <data key="d11">True</data>
+  <data key="d12">60.15973500872383</data>
+  <data key="d13">LINESTRING (77.2234235 28.6329938, 77.2233865 28.6330479, 77.2233233 28.6335226)</data>
+</edge>
+</graph></graphml>
