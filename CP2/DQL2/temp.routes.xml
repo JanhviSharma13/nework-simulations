@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-07-31 21:39:25 by Eclipse SUMO duarouter Version 1.23.1
+<duarouterConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="cp2.net.xml"/>
+        <route-files value="rl_agent.rou.xml"/>
+    </input>
+
+    <output>
+        <output-file value="temp.routes.xml"/>
+    </output>
+
+</duarouterConfiguration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="rl_agent0" depart="0.00" departLane="best" departSpeed="max">
+        <route edges="24583495#5 24583495#6 24583495#7 24583495#8 24583495#9 24583495#10 563974730#4 563974730#5 579151950 24583327#12 24583327#13 997761545 997761544 997761546#0 997761546#1 570616029#0 570616029#1 564223496#0 564223496#1 578543605 564223494#0 564223494#1 564223494#2 564223494#3 554665389#0 554665389#1 554665389#2 578543604 578543606 80414533#0 80414533#1 80414533#2 80414533#3 80414533#4 80414533#5 267447262#0 1310427872#0 1310427872#1 38235041#0 -1076749552"/>
+    </vehicle>
+</routes>

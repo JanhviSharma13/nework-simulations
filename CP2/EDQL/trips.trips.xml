@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-07-29 23:16:26.084306 by randomTrips.py v1_23_1+0000-676720d13f6
+<configuration>
+    <net-file value="cp2.net.xml"/>
+    <route-file value="background.rou.xml"/>
+    <prefix value="bg"/>
+    <length value="True"/>
+    <end value="300.0"/>
+    <period value="3.0"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="bg0" depart="0.00" from="24584391#1" to="-1076782193#1"/>
+    <trip id="bg1" depart="3.00" from="-686771927#0" to="-38235041#7"/>
+    <trip id="bg2" depart="6.00" from="391534135#1" to="293153156#1"/>
+    <trip id="bg3" depart="9.00" from="717454374" to="-164698290#1"/>
+    <trip id="bg4" depart="12.00" from="120287379" to="-1121142413#4"/>
+    <trip id="bg5" depart="15.00" from="-370765179#0" to="164782730#3"/>
+    <trip id="bg6" depart="18.00" from="-1076782194#0" to="-293153163#4"/>
+    <trip id="bg7" depart="21.00" from="265975966#3" to="24577360#3"/>
+    <trip id="bg8" depart="24.00" from="-371342951#3" to="24583491#1"/>
+    <trip id="bg9" depart="27.00" from="579781481#9" to="-1072914437#1"/>
+    <trip id="bg10" depart="30.00" from="578543603#3" to="360250361"/>
+    <trip id="bg11" depart="33.00" from="-995792406#6" to="-24584373#6"/>
+    <trip id="bg12" depart="36.00" from="80926759#5" to="-995792406#0"/>
+    <trip id="bg13" depart="39.00" from="-154356520#1" to="-169081337#0"/>
+    <trip id="bg14" depart="42.00" from="675478334#0" to="24583592#0"/>
+    <trip id="bg15" depart="45.00" from="578543603#5" to="38699591#1"/>
+    <trip id="bg16" depart="48.00" from="24577360#2" to="993539158#1"/>
+    <trip id="bg17" depart="51.00" from="1076782194#1" to="24577483#1"/>
+    <trip id="bg18" depart="54.00" from="612734125" to="24584373#9"/>
+    <trip id="bg19" depart="57.00" from="686914248" to="24583335#0"/>
+    <trip id="bg20" depart="60.00" from="370672197#4" to="-1144624113#3"/>
+    <trip id="bg21" depart="63.00" from="-38235296#0" to="-700305759#0"/>
+    <trip id="bg22" depart="66.00" from="-1305889560" to="-38699587#0"/>
+    <trip id="bg23" depart="69.00" from="-169081334#1" to="-686792710#0"/>
+    <trip id="bg24" depart="72.00" from="24584385#1" to="1072978656#1"/>
+    <trip id="bg25" depart="75.00" from="1074774615#2" to="-370672196"/>
+    <trip id="bg26" depart="78.00" from="-612734126#2" to="80418095#1"/>
+    <trip id="bg27" depart="81.00" from="265975966#0" to="24583594#0"/>
+    <trip id="bg28" depart="84.00" from="-24584383#3" to="38699591#1"/>
+    <trip id="bg29" depart="87.00" from="-24584374#1" to="1076782193#1"/>
+    <trip id="bg30" depart="90.00" from="997761544" to="24584383#3"/>
+    <trip id="bg31" depart="93.00" from="24583327#6" to="31056646#3"/>
+    <trip id="bg32" depart="96.00" from="665921717" to="562340248#1"/>
+    <trip id="bg33" depart="99.00" from="-38235296#1" to="-1121186669#1"/>
+    <trip id="bg34" depart="102.00" from="-779077038#4" to="-675478334#6"/>
+    <trip id="bg35" depart="105.00" from="-370672194#12" to="80418139#1"/>
+    <trip id="bg36" depart="108.00" from="707566695#0" to="-779077038#4"/>
+    <trip id="bg37" depart="111.00" from="267447262#8" to="1122030697#1"/>
+    <trip id="bg38" depart="114.00" from="74851428#2" to="1255913759"/>
+    <trip id="bg39" depart="117.00" from="-612734126#0" to="-488544864#2"/>
+    <trip id="bg40" depart="120.00" from="24583330#7" to="-612734126#0"/>
+    <trip id="bg41" depart="123.00" from="24583495#6" to="717512502#1"/>
+    <trip id="bg42" depart="126.00" from="1122257058" to="-371342951#3"/>
+    <trip id="bg43" depart="129.00" from="998790358#0" to="169081335#2"/>
+    <trip id="bg44" depart="132.00" from="-154090267#2" to="-1145143266#1"/>
+    <trip id="bg45" depart="135.00" from="-235103516#0" to="24584378#3"/>
+    <trip id="bg46" depart="138.00" from="563974730#1" to="116046169#1"/>
+    <trip id="bg47" depart="141.00" from="-1185904465" to="1076782200"/>
+    <trip id="bg48" depart="144.00" from="998790356#0" to="24563436#1"/>
+    <trip id="bg49" depart="147.00" from="993538729" to="686914248"/>
+    <trip id="bg50" depart="150.00" from="-1072922042#1" to="38235302#1"/>
+    <trip id="bg51" depart="153.00" from="31056646#2" to="24577106#1"/>
+    <trip id="bg52" depart="156.00" from="-612734126#1" to="24584384#0"/>
+    <trip id="bg53" depart="159.00" from="-235103516#0" to="1219699876#0"/>
+    <trip id="bg54" depart="162.00" from="1306148229#4" to="80926759#4"/>
+    <trip id="bg55" depart="165.00" from="706854224#0" to="-612734126#0"/>
+    <trip id="bg56" depart="168.00" from="169081337#0" to="-253307769#0"/>
+    <trip id="bg57" depart="171.00" from="74851427" to="700293881"/>
+    <trip id="bg58" depart="174.00" from="-717454373" to="24584383#3"/>
+    <trip id="bg59" depart="177.00" from="24584373#7" to="-24583768#1"/>
+    <trip id="bg60" depart="180.00" from="447141151#1" to="24577118#2"/>
+    <trip id="bg61" depart="183.00" from="562340247#1" to="24577095#1"/>
+    <trip id="bg62" depart="186.00" from="-103176793#0" to="-80926770#2"/>
+    <trip id="bg63" depart="189.00" from="-1074774613" to="779077038#1"/>
+    <trip id="bg64" depart="192.00" from="707566696#4" to="615556516"/>
+    <trip id="bg65" depart="195.00" from="-74851423#6" to="-123401419#0"/>
+    <trip id="bg66" depart="198.00" from="707566696#1" to="80429849#7"/>
+    <trip id="bg67" depart="201.00" from="-1386086512#0" to="154356516#3"/>
+    <trip id="bg68" depart="204.00" from="-120287379" to="488544864#1"/>
+    <trip id="bg69" depart="207.00" from="48964552#0" to="-24583491#1"/>
+    <trip id="bg70" depart="210.00" from="154356520#0" to="24577480#0"/>
+    <trip id="bg71" depart="213.00" from="-612734126#0" to="700305760#0"/>
+    <trip id="bg72" depart="216.00" from="1219699876#0" to="-370672196"/>
+    <trip id="bg73" depart="219.00" from="24577361#6" to="38699591#1"/>
+    <trip id="bg74" depart="222.00" from="-293153159#2" to="-775258786#0"/>
+    <trip id="bg75" depart="225.00" from="998790354#4" to="24584392#2"/>
+    <trip id="bg76" depart="228.00" from="1253490936#2" to="23133600#12"/>
+    <trip id="bg77" depart="231.00" from="-24582919#1" to="-38235296#0"/>
+    <trip id="bg78" depart="234.00" from="-993539971#2" to="24583489#9"/>
+    <trip id="bg79" depart="237.00" from="-38235302#3" to="-371342951#3"/>
+    <trip id="bg80" depart="240.00" from="-123401419#1" to="24584380#5"/>
+    <trip id="bg81" depart="243.00" from="-38235296#1" to="720546573#3"/>
+    <trip id="bg82" depart="246.00" from="686792709#0" to="-1386106195#0"/>
+    <trip id="bg83" depart="249.00" from="-423553702#1" to="289747210#1"/>
+    <trip id="bg84" depart="252.00" from="-370672197#3" to="-24583584#0"/>
+    <trip id="bg85" depart="255.00" from="80418095#1" to="24583332#11"/>
+    <trip id="bg86" depart="258.00" from="154356516#9" to="563679836#11"/>
+    <trip id="bg87" depart="261.00" from="579781481#10" to="-289747210#0"/>
+    <trip id="bg88" depart="264.00" from="-164684411#4" to="1185928010"/>
+    <trip id="bg89" depart="267.00" from="1219699876#0" to="1305889560"/>
+    <trip id="bg90" depart="270.00" from="38699591#1" to="291266019#0"/>
+    <trip id="bg91" depart="273.00" from="996679779#3" to="-235103445#0"/>
+    <trip id="bg92" depart="276.00" from="1138292933#4" to="-998790354#1"/>
+    <trip id="bg93" depart="279.00" from="686914247" to="-553590474#2"/>
+    <trip id="bg94" depart="282.00" from="-267447262#14" to="1252826818#2"/>
+    <trip id="bg95" depart="285.00" from="120287379" to="-686814926#0"/>
+    <trip id="bg96" depart="288.00" from="-553588769#1" to="760014495#0"/>
+    <trip id="bg97" depart="291.00" from="125453679#3" to="686916917"/>
+    <trip id="bg98" depart="294.00" from="24582919#1" to="-1184932071#3"/>
+    <trip id="bg99" depart="297.00" from="998790358#6" to="656933877#1"/>
+</routes>

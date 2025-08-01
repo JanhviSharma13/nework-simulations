@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <configuration>
     <input>
         <net-file value="cp2.net.xml"/>
-        <route-files value="cp2.rou.xml"/> <!-- Only if you want existing vehicles too -->
+        <route-files value="rl_agent.rou.xml,background.rou.xml"/>
     </input>
     <time>
         <begin value="0"/>
-        <end value="99999"/> <!-- Give plenty of headroom -->
+        <end value="3600"/>
     </time>
     <processing>
         <step-length value="1.0"/>

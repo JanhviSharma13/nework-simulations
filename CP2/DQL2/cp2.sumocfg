@@ -1,0 +1,20 @@
+<configuration>
+    <input>
+        <net-file value="cp2.net.xml"/>
+        <route-files value="rl_agent.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+        <step-length value="1.0"/>
+    </time>
+
+    <output>
+        <tripinfo-output value="tripinfo.xml"/>
+    </output>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+    </processing>
+</configuration>
