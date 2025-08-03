@@ -1,0 +1,2 @@
+episode,map_name,start_edge,goal_edge,success,total_time,route_length,total_distance,decision_count,final_edge,stuck_time,congestion_event,route_edges,reroute_timestamps,decision_latency_avg,internal_edges_skipped,num_steps,num_edges_visited,arrival_success
+1,Rakab Ganj,1271156414#0,1219699881#2,0,0.0,0,0.0,4,,0.0,0,1271156414#0,"16.0,17.0,18.0,19.0",0.0,0,499,0,0

@@ -1,0 +1,1 @@
+<routes><vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5" minGap="2.5" maxSpeed="70" guiShape="passenger" /><vehicle id="veh43" type="car" depart="430.0"><route edges="991702391#4 991702391#5 991702391#6 77617205#6 77617205#7 77617205#8 44830355#2 -176492662#2 -1070560848#7 -1070560848#5" /></vehicle></routes>

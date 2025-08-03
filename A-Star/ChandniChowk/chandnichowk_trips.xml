@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-08-03 03:24:59.270797 by randomTrips.py v1_23_1+0000-676720d13f6
+<configuration>
+    <net-file value="Chandni-Chowk/ch.net.xml"/>
+    <output-trip-file value="A-Star/ChandniChowk\chandnichowk_trips.xml"/>
+    <trip-attributes value="departLane='best' departSpeed='max' departPos='random'"/>
+    <vehicle-class value="passenger"/>
+    <validate value="True"/>
+    <end value="1000.0"/>
+    <period value="10.0"/>
+</configuration>
+-->
+
+<!-- generated on 2025-08-03 03:24:59 by Eclipse SUMO duarouter Version 1.23.1
+<duarouterConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="Chandni-Chowk/ch.net.xml"/>
+        <route-files value="A-Star/ChandniChowk\chandnichowk_trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="A-Star/ChandniChowk\chandnichowk_trips.xml.tmp"/>
+        <alternatives-output value="NUL"/>
+        <write-trips value="true"/>
+    </output>
+
+    <time>
+        <begin value="0.0"/>
+        <end value="1000.0"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</duarouterConfiguration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="passenger" vClass="passenger"/>
+    <trip id="0" type="passenger" depart="0.00" departLane="best" departPos="random" departSpeed="max" from="295636695#0" to="-1070575144#4"/>
+    <trip id="1" type="passenger" depart="10.00" departLane="best" departPos="random" departSpeed="max" from="-44923693#3" to="-44141276#0"/>
+    <trip id="2" type="passenger" depart="20.00" departLane="best" departPos="random" departSpeed="max" from="44141545#10" to="423608337#0"/>
+    <trip id="3" type="passenger" depart="30.00" departLane="best" departPos="random" departSpeed="max" from="776026191#2" to="-169826201"/>
+    <trip id="4" type="passenger" depart="40.00" departLane="best" departPos="random" departSpeed="max" from="-82946096#3" to="-1076018284"/>
+    <trip id="5" type="passenger" depart="50.00" departLane="best" departPos="random" departSpeed="max" from="-44141125#5" to="1181124061#4"/>
+    <trip id="6" type="passenger" depart="60.00" departLane="best" departPos="random" departSpeed="max" from="-1070575144#4" to="-320348721#3"/>
+    <trip id="7" type="passenger" depart="70.00" departLane="best" departPos="random" departSpeed="max" from="320348701" to="169826195#0"/>
+    <trip id="8" type="passenger" depart="80.00" departLane="best" departPos="random" departSpeed="max" from="-44141146#1" to="264592551#1"/>
+    <trip id="9" type="passenger" depart="90.00" departLane="best" departPos="random" departSpeed="max" from="48535261#1" to="-1067871270#1"/>
+    <trip id="10" type="passenger" depart="100.00" departLane="best" departPos="random" departSpeed="max" from="48533153#2" to="44141299#8"/>
+    <trip id="11" type="passenger" depart="110.00" departLane="best" departPos="random" departSpeed="max" from="-693912721#2" to="-293420636#0"/>
+    <trip id="12" type="passenger" depart="120.00" departLane="best" departPos="random" departSpeed="max" from="82710760#0" to="-693912719#6"/>
+    <trip id="13" type="passenger" depart="130.00" departLane="best" departPos="random" departSpeed="max" from="-169826196" to="-169826213#1"/>
+    <trip id="14" type="passenger" depart="140.00" departLane="best" departPos="random" departSpeed="max" from="693912719#4" to="264615171#1"/>
+    <trip id="15" type="passenger" depart="150.00" departLane="best" departPos="random" departSpeed="max" from="48533153#4" to="44141522#3"/>
+    <trip id="16" type="passenger" depart="160.00" departLane="best" departPos="random" departSpeed="max" from="1364873700#1" to="82946096#3"/>
+    <trip id="17" type="passenger" depart="170.00" departLane="best" departPos="random" departSpeed="max" from="-755795857" to="169826205#6"/>
+    <trip id="18" type="passenger" depart="180.00" departLane="best" departPos="random" departSpeed="max" from="658868906#0" to="293420636#0"/>
+    <trip id="19" type="passenger" depart="190.00" departLane="best" departPos="random" departSpeed="max" from="696306283#1" to="264592548#11"/>
+    <trip id="20" type="passenger" depart="200.00" departLane="best" departPos="random" departSpeed="max" from="44141357#1" to="-1079742369#0"/>
+    <trip id="21" type="passenger" depart="210.00" departLane="best" departPos="random" departSpeed="max" from="-44141299#10" to="-48532953#9"/>
+    <trip id="22" type="passenger" depart="220.00" departLane="best" departPos="random" departSpeed="max" from="-1364873685#2" to="-44141435#2"/>
+    <trip id="23" type="passenger" depart="230.00" departLane="best" departPos="random" departSpeed="max" from="-169826213#1" to="-48532953#0"/>
+    <trip id="24" type="passenger" depart="240.00" departLane="best" departPos="random" departSpeed="max" from="293420649#0" to="-755068998#1"/>
+    <trip id="25" type="passenger" depart="250.00" departLane="best" departPos="random" departSpeed="max" from="-755069000#2" to="-423608337#0"/>
+    <trip id="26" type="passenger" depart="260.00" departLane="best" departPos="random" departSpeed="max" from="-44611072#1" to="80940694#14"/>
+    <trip id="27" type="passenger" depart="270.00" departLane="best" departPos="random" departSpeed="max" from="320348696" to="264615172#3"/>
+    <trip id="28" type="passenger" depart="280.00" departLane="best" departPos="random" departSpeed="max" from="-293420652" to="44141522#2"/>
+    <trip id="29" type="passenger" depart="290.00" departLane="best" departPos="random" departSpeed="max" from="-293420639#3" to="-798631999#1"/>
+    <trip id="30" type="passenger" depart="300.00" departLane="best" departPos="random" departSpeed="max" from="82946148#0" to="320348687"/>
+    <trip id="31" type="passenger" depart="310.00" departLane="best" departPos="random" departSpeed="max" from="169826220#0" to="44141146#0"/>
+    <trip id="32" type="passenger" depart="320.00" departLane="best" departPos="random" departSpeed="max" from="693912717#3" to="48532953#15"/>
+    <trip id="33" type="passenger" depart="330.00" departLane="best" departPos="random" departSpeed="max" from="-44141299#2" to="-1076266783#0"/>
+    <trip id="34" type="passenger" depart="340.00" departLane="best" departPos="random" departSpeed="max" from="-48533153#3" to="-44830358#6"/>
+    <trip id="35" type="passenger" depart="350.00" departLane="best" departPos="random" departSpeed="max" from="-320348726#4" to="80940694#6"/>
+    <trip id="36" type="passenger" depart="360.00" departLane="best" departPos="random" departSpeed="max" from="744801990" to="-48535261#1"/>
+    <trip id="37" type="passenger" depart="370.00" departLane="best" departPos="random" departSpeed="max" from="320348716#0" to="-798855530"/>
+    <trip id="38" type="passenger" depart="380.00" departLane="best" departPos="random" departSpeed="max" from="798631998" to="1070575144#0"/>
+    <trip id="39" type="passenger" depart="390.00" departLane="best" departPos="random" departSpeed="max" from="-44610937#2" to="-44141529#0"/>
+    <trip id="40" type="passenger" depart="400.00" departLane="best" departPos="random" departSpeed="max" from="169826224" to="-44610937#2"/>
+    <trip id="41" type="passenger" depart="410.00" departLane="best" departPos="random" departSpeed="max" from="264592548#18" to="77617199#1"/>
+    <trip id="42" type="passenger" depart="420.00" departLane="best" departPos="random" departSpeed="max" from="-798855529#3" to="-44141146#4"/>
+    <trip id="43" type="passenger" depart="430.00" departLane="best" departPos="random" departSpeed="max" from="991702391#3" to="1184991409#0"/>
+    <trip id="44" type="passenger" depart="440.00" departLane="best" departPos="random" departSpeed="max" from="-1377217246#4" to="-1079742369#2"/>
+    <trip id="45" type="passenger" depart="450.00" departLane="best" departPos="random" departSpeed="max" from="-169826228#4" to="293420644"/>
+    <trip id="46" type="passenger" depart="460.00" departLane="best" departPos="random" departSpeed="max" from="48533130" to="-82946112"/>
+    <trip id="47" type="passenger" depart="470.00" departLane="best" departPos="random" departSpeed="max" from="-1184991409#1" to="-798632020"/>
+    <trip id="48" type="passenger" depart="480.00" departLane="best" departPos="random" departSpeed="max" from="991702391#1" to="1362943969#0"/>
+    <trip id="49" type="passenger" depart="490.00" departLane="best" departPos="random" departSpeed="max" from="82946096#0" to="720102664#0"/>
+    <trip id="50" type="passenger" depart="500.00" departLane="best" departPos="random" departSpeed="max" from="-1069870998" to="44141502#4"/>
+    <trip id="51" type="passenger" depart="510.00" departLane="best" departPos="random" departSpeed="max" from="423608337#1" to="1364873700#1"/>
+    <trip id="52" type="passenger" depart="520.00" departLane="best" departPos="random" departSpeed="max" from="-44611072#1" to="320348688"/>
+    <trip id="53" type="passenger" depart="530.00" departLane="best" departPos="random" departSpeed="max" from="-170062861" to="-82946148#4"/>
+    <trip id="54" type="passenger" depart="540.00" departLane="best" departPos="random" departSpeed="max" from="1070560846" to="80940712"/>
+    <trip id="55" type="passenger" depart="550.00" departLane="best" departPos="random" departSpeed="max" from="744801990" to="-44610966"/>
+    <trip id="56" type="passenger" depart="560.00" departLane="best" departPos="random" departSpeed="max" from="1128268559" to="-320348692"/>
+    <trip id="57" type="passenger" depart="570.00" departLane="best" departPos="random" departSpeed="max" from="77617256#1" to="744801990"/>
+    <trip id="58" type="passenger" depart="580.00" departLane="best" departPos="random" departSpeed="max" from="-48533128#2" to="320348678#4"/>
+    <trip id="59" type="passenger" depart="590.00" departLane="best" departPos="random" departSpeed="max" from="264615171#3" to="-267447983#2"/>
+    <trip id="61" type="passenger" depart="610.00" departLane="best" departPos="random" departSpeed="max" from="48532953#2" to="1362943969#2"/>
+    <trip id="62" type="passenger" depart="620.00" departLane="best" departPos="random" departSpeed="max" from="-1041351321#0" to="-681792944#3"/>
+    <trip id="63" type="passenger" depart="630.00" departLane="best" departPos="random" departSpeed="max" from="-1070560848#5" to="798855529#3"/>
+    <trip id="64" type="passenger" depart="640.00" departLane="best" departPos="random" departSpeed="max" from="755068998#0" to="681792944#2"/>
+    <trip id="65" type="passenger" depart="650.00" departLane="best" departPos="random" departSpeed="max" from="-48533136#1" to="-1184991409#1"/>
+    <trip id="66" type="passenger" depart="660.00" departLane="best" departPos="random" departSpeed="max" from="755068997" to="80940711#1"/>
+    <trip id="67" type="passenger" depart="670.00" departLane="best" departPos="random" departSpeed="max" from="-1377215179#0" to="1079742367#0"/>
+    <trip id="68" type="passenger" depart="680.00" departLane="best" departPos="random" departSpeed="max" from="-1186764830" to="44830361#3"/>
+    <trip id="69" type="passenger" depart="690.00" departLane="best" departPos="random" departSpeed="max" from="44923693#3" to="-264592548#21"/>
+    <trip id="70" type="passenger" depart="700.00" departLane="best" departPos="random" departSpeed="max" from="1076314748" to="169826205#3"/>
+    <trip id="71" type="passenger" depart="710.00" departLane="best" departPos="random" departSpeed="max" from="-44610937#2" to="755068996"/>
+    <trip id="72" type="passenger" depart="720.00" departLane="best" departPos="random" departSpeed="max" from="-82946100#0" to="-423608341"/>
+    <trip id="73" type="passenger" depart="730.00" departLane="best" departPos="random" departSpeed="max" from="1377217246#1" to="44141522#3"/>
+    <trip id="74" type="passenger" depart="740.00" departLane="best" departPos="random" departSpeed="max" from="-320348721#3" to="-48533153#3"/>
+    <trip id="75" type="passenger" depart="750.00" departLane="best" departPos="random" departSpeed="max" from="991702391#0" to="320348713#1"/>
+    <trip id="76" type="passenger" depart="760.00" departLane="best" departPos="random" departSpeed="max" from="-82946148#0" to="127661012#10"/>
+    <trip id="77" type="passenger" depart="770.00" departLane="best" departPos="random" departSpeed="max" from="-260320118" to="-44141299#1"/>
+    <trip id="78" type="passenger" depart="780.00" departLane="best" departPos="random" departSpeed="max" from="-693912719#6" to="264592551#0"/>
+    <trip id="79" type="passenger" depart="790.00" departLane="best" departPos="random" departSpeed="max" from="-44141299#4" to="-44141146#6"/>
+    <trip id="80" type="passenger" depart="800.00" departLane="best" departPos="random" departSpeed="max" from="-127661018#0" to="293420649#1"/>
+    <trip id="81" type="passenger" depart="810.00" departLane="best" departPos="random" departSpeed="max" from="-44141299#2" to="77617205#7"/>
+    <trip id="82" type="passenger" depart="820.00" departLane="best" departPos="random" departSpeed="max" from="696306282#0" to="-1364873685#0"/>
+    <trip id="83" type="passenger" depart="830.00" departLane="best" departPos="random" departSpeed="max" from="-44141435#5" to="320348726#0"/>
+    <trip id="84" type="passenger" depart="840.00" departLane="best" departPos="random" departSpeed="max" from="-423608341" to="-264592548#8"/>
+    <trip id="85" type="passenger" depart="850.00" departLane="best" departPos="random" departSpeed="max" from="80940694#0" to="253134120#2"/>
+    <trip id="86" type="passenger" depart="860.00" departLane="best" departPos="random" departSpeed="max" from="1076266783#0" to="48533127#0"/>
+    <trip id="87" type="passenger" depart="870.00" departLane="best" departPos="random" departSpeed="max" from="48533153#4" to="-320348717#10"/>
+    <trip id="88" type="passenger" depart="880.00" departLane="best" departPos="random" departSpeed="max" from="-169826205#3" to="-82946139#1"/>
+    <trip id="89" type="passenger" depart="890.00" departLane="best" departPos="random" departSpeed="max" from="-82946100#1" to="1076057774"/>
+    <trip id="90" type="passenger" depart="900.00" departLane="best" departPos="random" departSpeed="max" from="44141517#2" to="360271994#0"/>
+    <trip id="91" type="passenger" depart="910.00" departLane="best" departPos="random" departSpeed="max" from="82946119#4" to="-169826220#0"/>
+    <trip id="92" type="passenger" depart="920.00" departLane="best" departPos="random" departSpeed="max" from="-798855531#2" to="-693912721#0"/>
+    <trip id="93" type="passenger" depart="930.00" departLane="best" departPos="random" departSpeed="max" from="696306283#1" to="-44141545#10"/>
+    <trip id="94" type="passenger" depart="940.00" departLane="best" departPos="random" departSpeed="max" from="-320348716#1" to="1070560845#0"/>
+    <trip id="95" type="passenger" depart="950.00" departLane="best" departPos="random" departSpeed="max" from="-82946096#3" to="-48532953#1"/>
+    <trip id="96" type="passenger" depart="960.00" departLane="best" departPos="random" departSpeed="max" from="-44141529#1" to="798855524#2"/>
+    <trip id="97" type="passenger" depart="970.00" departLane="best" departPos="random" departSpeed="max" from="1041351325" to="720102664#1"/>
+    <trip id="98" type="passenger" depart="980.00" departLane="best" departPos="random" departSpeed="max" from="169826205#4" to="-1080170955"/>
+    <trip id="99" type="passenger" depart="990.00" departLane="best" departPos="random" departSpeed="max" from="991702391#6" to="693912717#0"/>
+</routes>
